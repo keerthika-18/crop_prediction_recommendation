@@ -1,0 +1,78 @@
+/* Container with full screen and light green background */
+.login-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e6f4ea;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+/* Form box */
+.login-box {
+  background-color: #ffffff;
+  padding: 30px 25px;
+  border-radius: 20px;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+
+/* Title */
+.login-title {
+  font-size: 24px;
+  color: #2e7d32;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+/* Form inputs */
+.login-form input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border: 2px solid #2e7d32;
+  border-radius: 8px;
+  font-size: 15px;
+  color: #2e7d32;
+  transition: border 0.3s ease, box-shadow 0.3s ease;
+}
+
+.login-form input:focus {
+  border-color: #66bb6a;
+  box-shadow: 0 0 8px rgba(102, 187, 106, 0.5);
+  outline: none;
+}
+
+/* Button */
+.login-form button {
+  width: 100%;
+  padding: 12px;
+  background-color: #27ae60;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.login-form button:hover {
+  background-color: #1e8449;
+}
+
+/* Toggle text below form */
+.toggle-text {
+  margin-top: 15px;
+  font-size: 14px;
+  color: #2e7d32;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.toggle-text:hover {
+  color: #1e8449;
+}

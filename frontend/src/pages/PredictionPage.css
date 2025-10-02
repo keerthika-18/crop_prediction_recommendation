@@ -1,0 +1,166 @@
+/* Background with image */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  font-family: Arial, sans-serif;
+}
+
+.prediction-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url("https://images.pexels.com/photos/101841/pexels-photo-101841.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500")
+    no-repeat center center/cover;
+  padding: 20px;
+}
+
+/* Glassmorphism Form Box */
+.form-box {
+  background: rgba(4, 93, 35, 0.85);
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);
+  max-width: 700px;
+  width: 100%;
+}
+
+/* Title */
+.title {
+  text-align: center;
+  font-size: 26px;
+  margin-bottom: 20px;
+  color: #2c3e50;
+}
+
+/* Form */
+.prediction-form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+}
+
+/* Form group */
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group label {
+  font-size: 13px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: #34495e;
+}
+
+/* Input fields with green text */
+.form-group input {
+  padding: 10px 12px;
+  border: 2px solid #5aff63; /* Green outline */
+  border-radius: 6px;
+  font-size: 16px;
+  color: #2e7d32; /* Green text inside input */
+  background: #ffffff;
+  transition: border 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Input focus effect */
+.form-group input:focus {
+  border-color: #66bb6a; /* Lighter green */
+  box-shadow: 0 0 8px rgba(102, 187, 106, 0.5);
+  outline: none;
+}
+
+/* Button */
+.submit-btn {
+  grid-column: span 2;
+  background: #4dfe97;
+  color: white;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+  transition: background 0.3s ease;
+}
+
+.submit-btn:hover {
+  background: #11ff74;
+}
+
+/* Result */
+.result-box {
+  margin-top: 20px;
+  padding: 12px;
+  background: #eafaf1;
+  border: 1px solid #48fd93;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: bold;
+  color: #27ae60;
+}
+/* Button row styling */
+.button-row {
+  display: flex;
+  gap: 10px;
+  grid-column: span 2; /* span full width */
+  margin-top: 10px;
+}
+
+.button-row button {
+  flex: 1; /* Make both buttons equal width */
+  cursor: pointer;
+}
+
+/* Error */
+.error-box {
+  margin-top: 20px;
+  padding: 12px;
+  background: #fdecea;
+  border: 1px solid #e74c3c;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: bold;
+  color: #c0392b;
+}
+/* Alert button */
+.alert-btn {
+  grid-column: span 2;
+  background: #ff6b6b; /* reddish color for alert */
+  color: white;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+  transition: background 0.3s ease;
+}
+
+.alert-btn:hover {
+  background: #ff4c4c;
+}
+
+.alert-btn:disabled {
+  background: #f7a9a9;
+  cursor: not-allowed;
+}
+
+/* Alert message box */
+.alert-message {
+  margin-top: 20px;
+  padding: 12px;
+  background: #fff7e6;
+  border: 1px solid #ffcc80;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: bold;
+  color: #e67e22;
+}

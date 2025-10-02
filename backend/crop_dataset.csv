@@ -1,0 +1,1001 @@
+N,P,K,Temperature,Humidity,Rainfall,SoilType,Region,Season,CropType,CropName,Area,FertilizerUsed,IrrigationType,PesticideUsage,SeedQuality,Production,Yield
+100.2,59.9,184.0,19.2,58.7,422.2,Chalky,Karnataka,Summer,Cereal,Rice,3.982,49.4,Canal,3.074,Medium,14.805,3.718
+71.8,7.6,56.4,18.6,90.1,1026.1,Sandy,Rajasthan,Summer,Fiber,Cotton,5.276,89.1,Tube well,4.892,Medium,4.912,0.931
+110.1,96.5,291.8,17.1,79.9,536.2,Loam,Tamil Nadu,Kharif,Pulse,Chana,8.102,251.3,Canal,3.318,Low,9.641,1.19
+109.3,42.5,137.7,25.8,36.7,442.1,Loam,Odisha,Rabi,Fiber,Cotton,8.672,371.4,Rainfed,2.051,High,17.795,2.052
+245.1,87.8,32.5,17.2,63.1,534.9,Silt,Odisha,Summer,Pulse,Chana,8.807,347.5,Drip,0.948,High,13.448,1.527
+33.7,123.5,265.5,20.5,93.2,767.4,Clay,Punjab,Rabi,Oilseed,Mustard,7.941,337.0,Canal,5.849,High,10.466,1.318
+192.5,7.4,129.5,19.0,62.7,169.2,Loam,Rajasthan,Rabi,Fiber,Cotton,5.711,16.0,Canal,5.71,Medium,6.225,1.09
+190.6,55.1,205.0,14.7,43.0,289.9,Clay,Bihar,Summer,Cereal,Maize,2.348,234.9,Drip,0.905,High,15.262,6.5
+133.2,29.4,20.4,36.6,61.6,197.7,Silt,Tamil Nadu,Kharif,Oilseed,Soybean,0.205,184.9,Rainfed,4.508,High,0.443,2.162
+191.3,59.9,266.0,21.6,24.8,512.6,Peaty,Gujarat,Summer,Pulse,Chana,5.454,219.9,Drip,4.905,Medium,7.439,1.364
+177.9,67.7,66.1,23.5,26.9,204.1,Chalky,Karnataka,Rabi,Cash,Sugarcane,8.932,0.6,Rainfed,5.005,Medium,260.18,29.129
+182.9,138.4,123.5,29.0,79.0,554.1,Chalky,Haryana,Summer,Cereal,Wheat,7.4,196.9,Canal,3.865,High,34.691,4.688
+148.7,44.1,17.9,30.0,83.5,661.4,Clay,Maharashtra,Rabi,Oilseed,Soybean,9.824,382.4,Tube well,3.979,High,31.476,3.204
+50.2,21.1,284.3,12.1,34.2,485.0,Clay,Rajasthan,Rabi,Vegetable,Tomato,3.528,174.0,Tube well,1.734,Medium,53.904,15.279
+241.2,20.8,37.9,13.0,25.7,26.3,Loam,Maharashtra,Rabi,Pulse,Urad,4.207,146.7,Drip,4.532,Low,1.649,0.392
+161.8,114.3,184.7,37.9,47.4,414.1,Peaty,Maharashtra,Rabi,Fiber,Cotton,6.805,393.4,Canal,2.396,Medium,13.018,1.913
+243.3,69.8,211.6,25.2,73.3,532.0,Sandy,Rajasthan,Rabi,Cereal,Maize,8.116,255.5,Canal,4.622,Medium,61.406,7.566
+15.5,144.3,90.4,22.5,88.2,296.5,Peaty,Gujarat,Kharif,Pulse,Moong,7.094,154.4,Drip,3.488,High,4.788,0.675
+124.4,65.1,206.7,30.8,42.5,961.1,Chalky,Uttar Pradesh,Summer,Pulse,Masoor,4.647,211.2,Rainfed,3.075,High,3.35,0.721
+200.0,146.2,207.1,26.6,56.6,944.6,Loam,Maharashtra,Summer,Fiber,Cotton,5.422,129.5,Drip,3.447,High,15.252,2.813
+115.5,90.0,180.9,18.7,33.6,240.1,Loam,Karnataka,Kharif,Pulse,Chana,3.077,248.1,Rainfed,5.275,High,3.36,1.092
+117.5,128.5,126.4,24.6,35.3,480.2,Sandy,Odisha,Rabi,Vegetable,Brinjal,6.388,276.8,Tube well,0.965,Low,63.893,10.002
+13.1,96.6,37.2,14.8,36.2,101.8,Peaty,Haryana,Kharif,Vegetable,Onion,1.853,241.1,Tube well,5.352,High,30.864,16.656
+118.3,53.1,180.8,29.2,54.6,955.3,Chalky,Gujarat,Summer,Oilseed,Groundnut,8.387,121.2,Canal,3.221,High,19.122,2.28
+224.6,8.1,17.1,23.9,44.7,674.2,Loam,Uttar Pradesh,Kharif,Pulse,Chana,7.16,329.0,Rainfed,2.73,High,8.177,1.142
+238.3,11.3,53.4,29.9,25.2,1163.1,Peaty,Tamil Nadu,Rabi,Oilseed,Sesame,6.002,347.1,Rainfed,2.359,High,3.775,0.629
+90.0,36.3,258.5,28.5,27.8,634.0,Sandy,Rajasthan,Rabi,Oilseed,Groundnut,3.2,278.0,Canal,4.669,Medium,6.157,1.924
+70.5,71.0,14.2,23.9,67.8,654.9,Clay,Uttar Pradesh,Summer,Oilseed,Sesame,1.836,32.6,Tube well,0.418,Medium,0.955,0.52
+155.8,74.0,87.2,33.1,67.1,493.4,Sandy,Gujarat,Rabi,Cereal,Wheat,1.48,126.8,Canal,3.961,Medium,5.374,3.631
+219.8,94.9,141.4,32.0,78.6,945.4,Silt,Gujarat,Summer,Pulse,Moong,6.847,204.4,Drip,5.668,Medium,5.991,0.875
+247.7,36.6,191.4,20.4,71.1,423.9,Chalky,Haryana,Rabi,Pulse,Urad,6.262,357.5,Canal,3.607,Medium,4.778,0.763
+144.4,102.0,278.7,26.4,77.6,4.3,Peaty,Tamil Nadu,Kharif,Oilseed,Soybean,0.731,113.2,Canal,2.189,High,2.419,3.309
+221.6,141.5,259.2,32.4,92.4,655.6,Chalky,Gujarat,Rabi,Cereal,Rice,4.43,122.6,Rainfed,5.139,High,19.807,4.471
+147.0,115.6,153.0,34.7,34.9,425.9,Silt,Odisha,Summer,Cereal,Wheat,3.231,37.6,Canal,0.42,High,8.307,2.571
+62.5,132.7,167.8,23.7,76.2,70.6,Loam,Maharashtra,Kharif,Vegetable,Potato,2.685,282.6,Tube well,4.948,Medium,102.127,38.036
+120.6,75.2,222.6,34.2,91.0,427.7,Silt,Punjab,Kharif,Pulse,Moong,0.647,233.0,Tube well,4.434,Low,0.393,0.607
+219.5,103.3,155.0,15.2,22.7,1124.3,Silt,Maharashtra,Kharif,Cereal,Rice,5.267,374.8,Drip,0.144,High,25.276,4.799
+196.0,100.3,223.2,8.2,44.6,950.7,Silt,Uttar Pradesh,Summer,Vegetable,Tomato,9.516,395.5,Drip,1.993,Low,210.646,22.136
+215.8,113.0,246.6,10.2,92.1,115.8,Peaty,Odisha,Summer,Vegetable,Tomato,1.164,39.5,Canal,3.947,Medium,15.605,13.406
+163.9,23.1,102.6,36.4,94.9,552.6,Loam,Haryana,Rabi,Pulse,Masoor,6.649,113.9,Drip,0.572,Medium,4.322,0.65
+189.4,49.9,51.6,15.2,42.9,143.3,Chalky,Uttar Pradesh,Kharif,Cereal,Barley,8.261,89.7,Tube well,1.495,Medium,17.356,2.101
+51.5,52.0,91.5,21.6,83.8,231.5,Peaty,Haryana,Kharif,Fiber,Cotton,3.569,248.3,Canal,3.815,Low,5.214,1.461
+110.3,5.8,116.0,24.6,23.8,730.7,Silt,Bihar,Summer,Vegetable,Tomato,9.66,89.6,Canal,1.091,High,205.642,21.288
+184.4,58.4,279.0,8.1,53.5,11.7,Chalky,Punjab,Kharif,Cereal,Barley,1.56,374.0,Rainfed,0.391,High,3.42,2.192
+59.6,5.6,19.1,38.6,45.7,756.4,Chalky,Odisha,Summer,Cereal,Barley,2.806,259.1,Drip,5.184,Medium,4.714,1.68
+229.6,51.2,253.8,17.5,64.3,249.4,Silt,Bihar,Kharif,Pulse,Chana,3.417,195.8,Canal,1.908,High,4.924,1.441
+3.6,18.9,159.1,30.8,85.1,1103.0,Silt,Punjab,Rabi,Cereal,Wheat,3.617,267.4,Rainfed,0.629,Low,4.601,1.272
+60.2,5.0,31.3,28.4,28.4,41.2,Sandy,Odisha,Kharif,Oilseed,Groundnut,8.987,393.3,Canal,1.168,Medium,11.351,1.263
+169.3,100.9,62.7,34.8,72.5,7.0,Peaty,Rajasthan,Rabi,Cereal,Barley,0.062,181.4,Drip,0.494,Medium,0.175,2.827
+81.2,12.6,83.3,39.7,71.5,682.0,Silt,Rajasthan,Summer,Pulse,Urad,1.066,135.3,Tube well,5.858,High,0.571,0.536
+29.7,107.0,129.1,21.4,77.8,119.3,Loam,Bihar,Rabi,Cereal,Rice,2.823,132.3,Canal,0.881,High,13.319,4.718
+26.1,117.2,293.4,33.4,59.3,462.4,Clay,Tamil Nadu,Rabi,Pulse,Chana,0.544,102.0,Rainfed,2.515,High,0.432,0.795
+10.6,145.1,28.6,22.5,37.6,666.3,Sandy,Uttar Pradesh,Summer,Vegetable,Potato,5.995,181.2,Rainfed,0.324,Low,73.978,12.34
+99.3,2.9,4.3,32.9,22.7,681.6,Chalky,Gujarat,Rabi,Vegetable,Onion,0.612,267.8,Canal,1.847,Medium,7.72,12.615
+190.9,38.4,125.1,9.1,92.9,660.8,Clay,Karnataka,Summer,Vegetable,Onion,2.896,380.9,Canal,5.806,Medium,58.169,20.086
+165.9,89.6,3.3,13.1,24.0,409.0,Chalky,Maharashtra,Summer,Oilseed,Groundnut,6.682,122.0,Tube well,1.217,High,11.032,1.651
+92.9,7.2,28.6,16.3,63.6,915.2,Silt,Punjab,Kharif,Vegetable,Onion,4.443,142.0,Drip,2.152,High,83.049,18.692
+13.1,70.7,114.7,20.1,42.3,584.0,Peaty,Maharashtra,Kharif,Oilseed,Mustard,2.535,386.6,Drip,3.838,High,3.23,1.274
+72.6,138.6,182.8,25.6,74.0,1026.5,Peaty,Karnataka,Summer,Cereal,Barley,8.193,23.7,Tube well,3.839,High,20.663,2.522
+40.7,149.9,131.0,39.2,23.4,109.0,Loam,Tamil Nadu,Summer,Cereal,Barley,2.778,394.4,Canal,3.994,Low,4.873,1.754
+66.4,132.5,102.8,19.3,74.2,300.2,Sandy,Tamil Nadu,Summer,Cereal,Rice,2.131,141.9,Canal,3.315,Medium,9.033,4.239
+61.9,128.5,208.1,15.6,40.1,73.3,Peaty,Uttar Pradesh,Rabi,Pulse,Moong,7.07,246.0,Canal,3.981,Low,3.959,0.56
+226.2,124.5,153.7,20.4,64.1,344.7,Peaty,Karnataka,Kharif,Oilseed,Groundnut,8.239,121.3,Drip,4.44,High,24.272,2.946
+67.9,141.6,45.8,30.9,48.3,1066.8,Chalky,Karnataka,Summer,Vegetable,Onion,2.49,164.6,Tube well,1.612,High,52.746,21.183
+61.2,66.2,123.4,13.9,34.9,1094.1,Sandy,Gujarat,Kharif,Pulse,Masoor,1.558,87.7,Canal,1.969,Medium,0.7,0.449
+184.3,123.8,283.0,35.7,44.9,995.3,Clay,Punjab,Summer,Vegetable,Tomato,5.451,61.1,Tube well,0.256,Medium,81.46,14.944
+177.9,77.0,165.2,37.4,70.2,483.5,Silt,Haryana,Kharif,Fiber,Cotton,4.151,389.1,Rainfed,0.171,High,7.185,1.731
+136.8,92.5,93.9,20.2,20.8,852.4,Peaty,Rajasthan,Rabi,Cereal,Barley,8.916,241.0,Tube well,5.336,Medium,27.426,3.076
+4.4,9.6,72.4,19.9,58.1,1058.8,Sandy,Haryana,Summer,Cereal,Rice,2.958,33.3,Rainfed,4.846,High,4.848,1.639
+114.4,14.5,89.5,28.0,33.3,1172.3,Peaty,Karnataka,Rabi,Cereal,Wheat,7.065,116.8,Canal,2.589,Low,19.259,2.726
+243.3,37.0,238.6,12.4,64.2,323.2,Sandy,Uttar Pradesh,Summer,Pulse,Chana,9.616,323.8,Rainfed,1.98,Low,7.568,0.787
+132.9,118.4,174.3,26.2,81.1,906.2,Chalky,Haryana,Kharif,Pulse,Moong,5.734,200.9,Canal,0.193,High,4.708,0.821
+3.0,33.8,56.0,12.9,59.1,139.3,Peaty,Rajasthan,Rabi,Pulse,Chana,2.342,286.1,Drip,0.866,Medium,1.541,0.658
+83.7,113.1,53.3,28.6,50.7,3.0,Peaty,Karnataka,Kharif,Vegetable,Onion,4.95,33.1,Drip,1.453,Medium,71.914,14.528
+207.1,82.4,46.1,35.6,64.7,1103.4,Peaty,Rajasthan,Rabi,Oilseed,Mustard,8.008,154.7,Drip,3.698,Medium,9.61,1.2
+199.1,139.5,237.9,8.0,38.4,808.1,Loam,Punjab,Kharif,Vegetable,Potato,6.442,360.8,Tube well,1.909,Medium,197.209,30.613
+112.0,74.0,236.3,19.2,20.0,1167.4,Loam,Rajasthan,Rabi,Pulse,Chana,5.48,188.8,Tube well,5.239,Low,4.631,0.845
+201.6,60.6,82.1,29.9,74.7,828.6,Loam,Uttar Pradesh,Rabi,Oilseed,Groundnut,0.188,101.0,Tube well,0.052,Medium,0.37,1.967
+159.9,7.5,100.3,21.7,81.9,422.8,Loam,Haryana,Rabi,Oilseed,Soybean,7.134,16.0,Canal,5.287,Medium,13.162,1.845
+223.2,87.6,237.6,23.0,72.2,847.7,Clay,Maharashtra,Summer,Vegetable,Brinjal,8.236,208.4,Drip,0.312,Medium,122.56,14.881
+140.6,22.0,260.2,27.8,90.5,948.6,Clay,Gujarat,Rabi,Pulse,Masoor,2.049,280.5,Drip,3.093,Medium,1.873,0.914
+241.1,107.1,72.7,24.7,26.8,49.5,Peaty,Tamil Nadu,Kharif,Vegetable,Onion,6.162,176.7,Rainfed,4.822,Medium,120.196,19.506
+241.7,93.2,78.2,19.4,26.3,992.8,Chalky,Haryana,Rabi,Cash,Sugarcane,2.667,53.0,Rainfed,4.261,Low,87.944,32.975
+129.8,126.0,110.0,21.5,54.3,545.8,Silt,Tamil Nadu,Rabi,Oilseed,Groundnut,0.445,207.4,Drip,5.731,High,1.426,3.204
+149.9,20.8,240.2,24.9,67.8,317.9,Clay,Karnataka,Kharif,Pulse,Chana,7.38,177.4,Tube well,2.659,Medium,9.151,1.24
+81.8,103.1,20.5,36.2,60.5,590.8,Sandy,Maharashtra,Rabi,Cereal,Wheat,6.277,335.2,Tube well,3.953,Medium,20.808,3.315
+63.9,94.2,252.2,39.9,46.9,13.8,Sandy,Uttar Pradesh,Kharif,Cereal,Rice,7.621,331.6,Tube well,2.841,High,27.801,3.648
+77.6,125.6,239.3,14.1,46.9,278.5,Loam,Tamil Nadu,Kharif,Fiber,Cotton,2.211,142.7,Tube well,3.744,High,4.159,1.881
+239.9,54.8,114.5,27.7,52.3,680.4,Loam,Karnataka,Kharif,Vegetable,Potato,9.601,165.3,Canal,0.38,High,375.38,39.098
+188.1,116.7,78.0,17.7,22.3,179.3,Chalky,Gujarat,Summer,Vegetable,Brinjal,7.969,83.8,Canal,4.387,Medium,58.963,7.399
+249.7,131.2,84.8,28.4,66.2,1047.9,Peaty,Maharashtra,Rabi,Vegetable,Brinjal,3.83,107.4,Drip,4.457,Medium,56.14,14.658
+73.2,36.8,210.6,32.6,39.4,1183.5,Silt,Gujarat,Summer,Pulse,Masoor,6.415,323.0,Drip,2.875,Medium,4.843,0.755
+150.7,3.7,171.2,36.2,39.7,176.4,Sandy,Rajasthan,Kharif,Pulse,Urad,7.499,378.4,Canal,1.538,High,3.277,0.437
+57.9,62.0,149.0,22.6,81.7,857.9,Loam,Rajasthan,Summer,Pulse,Urad,2.583,336.2,Tube well,0.692,Medium,1.749,0.677
+234.9,86.7,226.0,23.9,67.3,909.6,Silt,Rajasthan,Summer,Oilseed,Groundnut,1.649,121.7,Rainfed,3.465,High,4.276,2.593
+123.5,42.4,97.7,14.4,61.5,472.4,Loam,Maharashtra,Kharif,Oilseed,Groundnut,7.329,249.6,Tube well,4.537,Medium,17.744,2.421
+31.3,20.6,216.6,16.6,48.0,890.7,Peaty,Karnataka,Kharif,Vegetable,Potato,5.275,209.6,Canal,2.352,Low,110.833,21.011
+35.2,27.7,171.0,11.1,54.9,1161.5,Loam,Rajasthan,Summer,Oilseed,Soybean,8.893,232.8,Canal,5.906,Low,13.117,1.475
+120.1,102.6,29.7,38.2,81.2,909.1,Sandy,Gujarat,Summer,Oilseed,Soybean,0.731,62.6,Tube well,0.848,Medium,1.041,1.424
+136.8,30.2,276.1,21.2,48.3,976.9,Clay,Tamil Nadu,Rabi,Oilseed,Groundnut,9.568,349.1,Tube well,1.798,Low,19.48,2.036
+171.8,117.7,245.4,15.9,42.4,723.3,Loam,Odisha,Rabi,Oilseed,Sesame,3.067,212.8,Rainfed,2.222,Medium,2.564,0.836
+221.6,65.1,48.4,37.4,48.2,1050.7,Silt,Tamil Nadu,Kharif,Cereal,Maize,6.965,175.7,Rainfed,3.948,High,32.624,4.684
+92.9,142.8,27.3,26.5,45.0,1088.3,Silt,Tamil Nadu,Summer,Oilseed,Sesame,0.355,217.3,Drip,0.116,Low,0.249,0.701
+156.5,62.7,85.6,28.0,70.1,298.1,Chalky,Tamil Nadu,Summer,Cereal,Maize,0.13,289.9,Rainfed,3.244,High,0.858,6.601
+115.6,96.0,11.8,29.8,92.9,173.7,Sandy,Rajasthan,Kharif,Pulse,Moong,9.087,230.3,Canal,3.884,Medium,5.543,0.61
+79.3,1.7,269.0,25.2,22.4,482.1,Peaty,Odisha,Kharif,Oilseed,Sesame,4.102,273.7,Canal,4.411,High,3.839,0.936
+26.9,37.4,229.3,35.3,68.1,383.8,Chalky,Haryana,Kharif,Vegetable,Potato,1.194,37.2,Canal,2.267,High,20.011,16.76
+107.5,103.3,275.8,20.8,55.2,581.1,Silt,Bihar,Kharif,Oilseed,Soybean,7.467,120.8,Drip,5.386,High,27.367,3.665
+171.3,133.6,76.3,25.4,91.8,523.6,Clay,Odisha,Summer,Pulse,Urad,2.597,207.3,Canal,1.259,High,1.867,0.719
+21.9,134.5,14.2,27.6,47.5,213.5,Peaty,Karnataka,Rabi,Cereal,Rice,9.656,289.2,Tube well,3.438,Medium,36.741,3.805
+57.2,37.5,34.5,27.5,24.4,633.7,Silt,Gujarat,Summer,Cereal,Wheat,4.355,248.2,Tube well,2.885,Medium,14.511,3.332
+216.3,89.9,33.7,11.6,52.3,418.6,Silt,Rajasthan,Rabi,Cereal,Rice,0.471,30.3,Canal,5.801,Medium,1.567,3.327
+8.3,7.7,3.6,30.2,32.0,1053.2,Chalky,Odisha,Rabi,Vegetable,Onion,4.13,362.2,Rainfed,1.7,High,41.473,10.042
+144.5,96.4,45.2,28.0,36.4,1046.3,Chalky,Rajasthan,Kharif,Oilseed,Groundnut,5.052,203.1,Rainfed,2.317,High,10.013,1.982
+56.4,10.0,75.3,26.2,86.6,577.8,Loam,Tamil Nadu,Kharif,Cereal,Rice,4.902,327.0,Rainfed,4.185,Medium,17.598,3.59
+180.9,50.0,175.5,24.1,58.6,186.2,Silt,Bihar,Summer,Cereal,Rice,9.065,386.3,Canal,4.177,Medium,60.001,6.619
+200.3,143.0,296.9,26.1,88.2,981.8,Silt,Gujarat,Rabi,Oilseed,Mustard,8.88,56.8,Canal,0.27,Low,8.161,0.919
+87.8,45.3,262.5,11.3,47.8,177.0,Clay,Punjab,Summer,Cereal,Rice,8.266,267.0,Drip,1.982,Medium,34.833,4.214
+125.8,134.7,83.5,22.4,73.5,450.3,Chalky,Gujarat,Summer,Cereal,Maize,0.939,222.6,Canal,1.314,Medium,6.27,6.677
+39.7,145.1,278.7,24.3,79.5,379.8,Clay,Bihar,Summer,Cash,Sugarcane,9.4,59.4,Tube well,5.516,Medium,517.902,55.096
+184.6,141.1,275.4,38.5,22.8,632.6,Chalky,Rajasthan,Rabi,Cereal,Wheat,2.82,172.4,Canal,4.749,Medium,8.234,2.92
+143.6,23.8,183.8,16.6,88.9,1013.6,Loam,Bihar,Summer,Fiber,Cotton,0.538,31.2,Drip,5.387,High,0.675,1.254
+32.1,86.8,213.2,35.6,22.9,87.9,Sandy,Punjab,Summer,Cereal,Wheat,9.973,50.2,Canal,1.533,High,17.243,1.729
+38.4,55.4,42.2,39.6,21.3,262.2,Clay,Punjab,Kharif,Cash,Sugarcane,0.676,27.4,Canal,1.944,Medium,17.84,26.391
+69.2,6.5,192.8,19.7,78.7,359.8,Silt,Gujarat,Kharif,Vegetable,Onion,0.655,244.6,Drip,1.88,High,15.412,23.53
+112.9,81.3,265.3,35.7,40.9,1198.7,Peaty,Karnataka,Rabi,Vegetable,Brinjal,8.04,256.5,Drip,4.901,High,95.684,11.901
+207.6,117.6,121.8,30.0,54.1,379.1,Loam,Uttar Pradesh,Rabi,Cereal,Wheat,0.749,215.2,Canal,5.974,Low,3.159,4.217
+32.5,135.4,128.3,36.2,40.2,1130.2,Sandy,Punjab,Summer,Cereal,Wheat,4.609,263.8,Rainfed,0.517,Medium,8.633,1.873
+224.1,80.7,4.3,34.3,75.9,165.2,Clay,Bihar,Summer,Cash,Sugarcane,7.064,330.7,Canal,1.157,High,538.199,76.189
+216.0,104.0,244.9,22.7,50.6,262.8,Silt,Haryana,Summer,Oilseed,Groundnut,3.356,89.2,Drip,4.452,Medium,8.377,2.496
+75.3,23.9,181.0,33.8,63.1,230.4,Silt,Uttar Pradesh,Summer,Vegetable,Onion,6.668,291.2,Drip,1.588,High,158.552,23.778
+237.7,23.6,245.4,29.8,75.2,256.5,Chalky,Odisha,Summer,Oilseed,Mustard,9.56,49.0,Canal,4.041,High,10.028,1.049
+101.1,115.7,93.9,33.9,49.1,494.7,Peaty,Maharashtra,Kharif,Vegetable,Tomato,9.945,236.0,Rainfed,1.621,Medium,197.229,19.832
+113.6,34.4,56.2,27.3,25.7,307.9,Silt,Odisha,Rabi,Pulse,Masoor,5.019,324.2,Tube well,2.975,High,5.014,0.999
+114.1,91.3,236.8,29.7,86.0,748.8,Sandy,Maharashtra,Rabi,Cereal,Rice,7.617,394.1,Rainfed,2.59,Medium,32.753,4.3
+105.6,106.9,138.3,8.6,52.0,329.9,Chalky,Karnataka,Rabi,Pulse,Masoor,6.582,220.4,Rainfed,2.949,Medium,3.765,0.572
+28.9,83.9,131.7,17.7,59.4,745.0,Clay,Karnataka,Summer,Vegetable,Tomato,9.179,35.1,Rainfed,2.394,Low,96.214,10.482
+84.8,149.3,281.2,30.8,93.0,96.5,Silt,Gujarat,Rabi,Oilseed,Mustard,9.319,173.6,Rainfed,1.813,High,9.636,1.034
+155.6,101.1,198.4,28.5,41.1,173.7,Chalky,Uttar Pradesh,Kharif,Pulse,Moong,5.788,176.7,Rainfed,5.516,Low,3.021,0.522
+162.1,122.7,165.3,30.4,30.5,626.2,Loam,Uttar Pradesh,Kharif,Pulse,Urad,3.068,201.5,Canal,0.524,Low,1.77,0.577
+77.2,15.1,205.7,15.3,69.3,576.1,Clay,Bihar,Rabi,Cereal,Rice,1.276,255.4,Tube well,4.136,Medium,6.233,4.885
+69.2,79.6,107.0,20.6,42.5,1159.7,Loam,Rajasthan,Rabi,Oilseed,Mustard,3.605,331.3,Rainfed,4.939,Low,3.281,0.91
+75.6,139.0,142.1,28.2,84.0,1138.7,Peaty,Bihar,Kharif,Vegetable,Onion,6.982,371.3,Tube well,4.854,Low,156.99,22.485
+113.3,105.8,61.7,30.7,85.5,367.0,Sandy,Rajasthan,Summer,Pulse,Masoor,4.02,337.9,Drip,5.74,High,3.727,0.927
+128.9,65.0,230.6,26.0,27.4,997.2,Chalky,Karnataka,Rabi,Vegetable,Brinjal,0.254,269.4,Canal,0.533,Low,2.37,9.332
+208.5,70.7,68.5,9.7,93.8,17.6,Silt,Rajasthan,Rabi,Pulse,Moong,5.987,33.3,Rainfed,4.788,High,2.173,0.363
+155.0,56.6,182.9,11.3,77.1,987.7,Clay,Tamil Nadu,Kharif,Cash,Sugarcane,4.148,83.8,Rainfed,1.699,High,219.649,52.953
+7.7,9.3,207.1,32.1,24.6,554.5,Peaty,Karnataka,Summer,Oilseed,Groundnut,2.566,364.7,Tube well,3.462,Medium,3.513,1.369
+88.2,56.9,172.2,17.8,94.1,854.3,Clay,Odisha,Summer,Vegetable,Potato,3.464,253.6,Canal,5.956,High,105.943,30.584
+160.5,123.5,104.4,10.2,23.5,614.9,Silt,Odisha,Summer,Pulse,Moong,6.951,339.3,Canal,0.993,Medium,4.796,0.69
+223.2,58.1,272.6,27.3,30.8,1026.5,Silt,Bihar,Summer,Vegetable,Brinjal,0.409,240.5,Drip,5.484,Medium,6.319,15.45
+75.3,125.7,285.9,29.6,39.1,620.7,Clay,Tamil Nadu,Kharif,Pulse,Urad,3.951,311.2,Canal,5.202,Low,2.13,0.539
+245.5,29.4,247.6,34.8,67.4,344.7,Silt,Rajasthan,Kharif,Vegetable,Brinjal,0.813,308.1,Canal,4.629,Medium,12.204,15.011
+5.6,6.7,236.3,22.3,87.9,1118.8,Sandy,Tamil Nadu,Rabi,Oilseed,Soybean,7.156,344.8,Rainfed,5.629,Low,7.786,1.088
+20.2,64.0,145.3,35.7,37.9,183.7,Chalky,Maharashtra,Rabi,Oilseed,Sesame,9.938,34.6,Tube well,3.441,High,3.647,0.367
+116.1,62.3,68.3,21.8,47.9,578.2,Chalky,Punjab,Kharif,Oilseed,Mustard,3.785,363.1,Tube well,2.622,Medium,5.049,1.334
+115.1,118.1,6.5,23.8,29.6,149.6,Loam,Odisha,Summer,Cereal,Wheat,8.588,398.8,Tube well,4.671,High,36.19,4.214
+45.7,129.7,250.8,35.6,62.6,120.4,Clay,Maharashtra,Summer,Cereal,Wheat,8.71,91.6,Canal,4.797,High,26.191,3.007
+160.5,7.0,224.1,26.0,76.5,71.2,Clay,Uttar Pradesh,Rabi,Fiber,Cotton,7.138,257.0,Canal,0.203,High,13.926,1.951
+213.8,100.1,96.3,17.6,55.5,338.1,Peaty,Uttar Pradesh,Rabi,Vegetable,Brinjal,1.235,20.5,Drip,5.665,Low,10.863,8.796
+221.4,1.0,113.9,15.6,41.7,916.5,Loam,Rajasthan,Rabi,Cereal,Barley,7.545,342.2,Tube well,1.151,High,24.318,3.223
+229.2,100.7,62.7,34.6,43.1,843.0,Chalky,Uttar Pradesh,Summer,Vegetable,Tomato,4.269,47.1,Rainfed,4.22,Medium,55.557,13.014
+176.0,107.0,184.5,31.8,82.9,986.2,Loam,Uttar Pradesh,Rabi,Pulse,Chana,7.492,93.8,Rainfed,1.998,High,7.687,1.026
+152.9,70.6,112.9,34.7,81.1,357.5,Peaty,Karnataka,Rabi,Pulse,Chana,3.088,236.7,Drip,5.062,Low,3.202,1.037
+3.0,14.9,116.0,38.6,70.6,578.8,Loam,Rajasthan,Rabi,Oilseed,Mustard,9.369,399.5,Rainfed,1.991,High,7.149,0.763
+32.5,70.3,129.1,23.9,64.0,756.2,Loam,Odisha,Kharif,Pulse,Urad,0.627,346.0,Drip,3.697,High,0.554,0.884
+142.3,95.2,202.4,37.4,36.7,407.6,Sandy,Uttar Pradesh,Kharif,Cereal,Wheat,9.658,345.9,Tube well,4.149,Medium,30.79,3.188
+27.9,118.9,239.8,14.0,83.9,403.9,Chalky,Gujarat,Kharif,Vegetable,Tomato,3.422,297.0,Tube well,5.781,High,74.36,21.73
+117.1,115.0,74.4,17.2,64.1,259.1,Sandy,Rajasthan,Summer,Vegetable,Potato,2.011,279.5,Rainfed,5.349,Low,40.679,20.228
+18.3,126.1,63.6,15.9,84.7,625.8,Chalky,Haryana,Summer,Cash,Sugarcane,5.989,82.2,Drip,0.283,Medium,244.231,40.78
+66.1,38.9,123.5,16.4,35.1,1106.0,Loam,Punjab,Summer,Cereal,Wheat,5.274,261.8,Drip,2.667,Low,13.702,2.598
+195.6,95.1,161.7,23.4,67.1,99.0,Chalky,Bihar,Kharif,Vegetable,Brinjal,8.626,41.1,Canal,3.75,Low,74.848,8.677
+53.2,43.2,179.6,11.1,71.2,1164.9,Clay,Tamil Nadu,Summer,Cereal,Wheat,8.031,172.3,Tube well,4.318,Low,17.098,2.129
+132.9,47.7,60.4,32.6,58.4,1075.5,Sandy,Bihar,Kharif,Cereal,Maize,5.825,301.6,Canal,4.099,Medium,34.082,5.851
+186.6,76.7,226.8,14.6,22.0,469.8,Peaty,Punjab,Summer,Pulse,Urad,4.67,259.0,Canal,2.72,Low,2.456,0.526
+68.7,33.4,46.2,37.8,53.9,39.9,Clay,Haryana,Kharif,Pulse,Chana,9.983,273.2,Canal,2.514,Medium,8.126,0.814
+63.3,65.8,202.0,8.2,60.3,30.8,Clay,Karnataka,Summer,Cereal,Maize,2.239,43.0,Rainfed,1.53,Low,4.709,2.103
+136.1,51.3,209.6,28.1,65.9,1144.8,Silt,Uttar Pradesh,Rabi,Vegetable,Onion,8.139,164.5,Rainfed,1.707,Medium,170.374,20.933
+22.4,20.6,26.0,14.8,45.6,728.5,Clay,Tamil Nadu,Kharif,Cereal,Rice,3.344,370.0,Tube well,5.023,Medium,10.293,3.078
+171.1,33.0,1.7,36.2,83.9,832.4,Clay,Gujarat,Rabi,Cereal,Rice,5.019,346.7,Canal,4.827,Medium,20.508,4.086
+36.5,99.9,53.9,15.4,64.1,375.2,Silt,Bihar,Summer,Oilseed,Groundnut,0.551,265.8,Drip,1.41,High,1.24,2.251
+12.1,27.9,221.3,37.7,90.4,1025.7,Loam,Karnataka,Kharif,Vegetable,Potato,1.92,239.5,Tube well,3.743,High,44.204,23.023
+99.8,58.5,107.0,29.4,64.5,226.7,Loam,Rajasthan,Rabi,Vegetable,Potato,2.839,17.0,Canal,0.808,Medium,63.88,22.501
+82.7,106.9,228.1,18.9,66.6,840.1,Peaty,Haryana,Kharif,Vegetable,Tomato,1.773,298.8,Rainfed,2.377,Medium,45.027,25.396
+199.5,56.5,253.1,9.8,82.1,166.1,Chalky,Tamil Nadu,Rabi,Pulse,Moong,1.115,194.9,Tube well,0.838,Medium,0.59,0.529
+67.8,30.1,189.4,19.5,81.0,1140.5,Sandy,Bihar,Rabi,Oilseed,Mustard,7.321,135.3,Rainfed,5.645,Medium,5.586,0.763
+89.1,83.7,71.9,35.7,56.4,1059.4,Silt,Tamil Nadu,Rabi,Oilseed,Soybean,6.508,113.5,Drip,3.892,Medium,15.652,2.405
+2.8,102.3,236.0,9.5,23.2,1041.7,Loam,Bihar,Summer,Cereal,Barley,5.875,154.2,Canal,1.981,High,9.946,1.693
+20.0,104.0,45.7,33.5,78.6,1195.1,Silt,Uttar Pradesh,Rabi,Vegetable,Brinjal,3.8,395.5,Rainfed,1.652,Medium,29.526,7.77
+127.7,144.0,296.4,25.5,74.4,279.2,Chalky,Bihar,Kharif,Fiber,Cotton,0.317,44.1,Tube well,4.659,High,0.534,1.684
+139.2,1.9,220.9,14.4,89.0,1098.6,Sandy,Odisha,Rabi,Cereal,Barley,2.592,38.2,Tube well,0.319,Medium,3.069,1.184
+114.3,133.5,47.9,39.2,52.1,831.9,Clay,Odisha,Summer,Oilseed,Mustard,4.273,83.5,Tube well,0.157,Medium,3.017,0.706
+208.8,54.8,98.2,9.5,66.9,975.4,Silt,Odisha,Summer,Pulse,Chana,5.794,264.0,Rainfed,3.624,High,5.672,0.979
+51.3,125.5,87.1,10.8,63.9,487.2,Loam,Tamil Nadu,Summer,Oilseed,Groundnut,5.159,94.2,Tube well,3.659,Low,6.996,1.356
+34.5,139.9,223.3,17.1,52.7,920.3,Sandy,Odisha,Rabi,Pulse,Urad,3.476,381.5,Rainfed,4.041,Low,1.276,0.367
+38.3,76.7,289.1,34.4,62.6,855.7,Chalky,Punjab,Summer,Oilseed,Sesame,1.199,34.9,Drip,0.799,Low,0.524,0.437
+8.3,112.8,11.8,33.9,52.7,889.1,Clay,Punjab,Rabi,Oilseed,Sesame,1.455,115.8,Rainfed,4.717,Medium,0.554,0.381
+249.1,110.0,99.3,29.4,33.4,406.8,Silt,Bihar,Summer,Vegetable,Potato,7.431,224.4,Canal,4.948,Medium,272.19,36.629
+102.5,36.1,140.5,31.7,59.5,313.6,Silt,Haryana,Kharif,Fiber,Cotton,3.029,275.7,Canal,4.094,Low,5.049,1.667
+90.6,4.2,148.1,18.6,31.8,1059.3,Sandy,Odisha,Rabi,Vegetable,Potato,8.012,285.1,Tube well,2.423,Medium,150.217,18.749
+14.0,140.9,242.5,36.3,68.3,491.1,Sandy,Uttar Pradesh,Kharif,Oilseed,Mustard,7.165,117.3,Rainfed,5.887,Medium,4.987,0.696
+199.6,32.0,140.9,18.3,77.1,967.3,Peaty,Gujarat,Summer,Pulse,Chana,2.044,123.1,Tube well,2.232,Medium,2.148,1.051
+120.5,33.0,268.8,14.2,31.8,834.0,Clay,Maharashtra,Rabi,Cereal,Wheat,8.781,318.1,Rainfed,4.976,High,26.721,3.043
+16.5,126.0,173.6,14.4,39.1,220.0,Silt,Punjab,Kharif,Cereal,Wheat,1.112,319.8,Rainfed,5.038,High,2.875,2.585
+247.7,144.1,113.0,10.7,39.5,207.5,Peaty,Uttar Pradesh,Kharif,Oilseed,Sesame,4.881,183.7,Rainfed,1.267,Low,2.416,0.495
+212.2,108.2,25.0,39.7,40.3,906.4,Chalky,Maharashtra,Kharif,Cereal,Wheat,6.383,386.2,Tube well,5.503,Medium,18.83,2.95
+183.9,30.3,171.0,8.9,80.0,1185.9,Peaty,Haryana,Summer,Cereal,Wheat,7.915,40.2,Drip,4.217,High,19.083,2.411
+95.5,58.6,136.6,23.8,47.8,1112.0,Peaty,Haryana,Kharif,Vegetable,Potato,0.85,193.0,Rainfed,4.489,Medium,22.603,26.592
+151.9,128.7,195.5,14.0,52.6,239.3,Loam,Haryana,Summer,Cereal,Wheat,6.607,200.2,Canal,5.609,High,29.315,4.437
+209.1,59.5,121.3,26.9,93.9,349.6,Peaty,Karnataka,Kharif,Fiber,Cotton,7.541,189.6,Canal,2.44,Medium,14.456,1.917
+92.8,122.1,140.0,20.0,71.8,1080.2,Clay,Punjab,Kharif,Vegetable,Potato,8.315,192.5,Drip,1.063,Medium,268.425,32.282
+1.1,135.2,205.4,8.1,40.3,1063.0,Clay,Karnataka,Kharif,Pulse,Masoor,1.157,250.6,Tube well,5.132,High,0.566,0.489
+33.9,11.4,286.0,22.5,39.4,162.7,Peaty,Haryana,Kharif,Vegetable,Brinjal,6.316,10.8,Tube well,4.619,High,40.492,6.411
+72.5,0.7,204.6,34.1,21.2,151.8,Sandy,Uttar Pradesh,Summer,Vegetable,Tomato,2.995,360.4,Drip,3.639,Medium,46.488,15.522
+95.8,25.2,146.7,34.2,29.3,321.4,Peaty,Rajasthan,Kharif,Vegetable,Brinjal,7.698,50.9,Rainfed,4.963,High,44.787,5.818
+167.6,15.5,246.0,13.0,65.7,932.7,Chalky,Odisha,Summer,Cereal,Maize,0.35,299.3,Rainfed,4.195,Medium,1.65,4.714
+70.2,67.5,91.4,9.9,95.0,959.2,Loam,Punjab,Kharif,Vegetable,Brinjal,9.091,339.7,Tube well,0.145,Low,63.901,7.029
+115.9,123.1,194.5,23.2,71.2,517.5,Peaty,Uttar Pradesh,Kharif,Vegetable,Potato,2.062,208.6,Tube well,1.426,High,91.382,44.317
+203.7,51.1,82.2,28.6,48.4,821.1,Peaty,Odisha,Kharif,Oilseed,Sesame,5.2,38.0,Tube well,3.781,Medium,3.744,0.72
+234.3,25.5,150.6,28.4,91.1,211.7,Sandy,Karnataka,Kharif,Cereal,Maize,6.382,8.6,Canal,4.433,Medium,20.161,3.159
+204.7,42.9,67.5,16.5,34.7,129.5,Sandy,Punjab,Kharif,Cereal,Maize,7.791,212.4,Canal,1.551,High,37.88,4.862
+108.2,52.0,48.6,16.1,60.1,1066.5,Clay,Tamil Nadu,Summer,Cereal,Rice,4.22,9.4,Tube well,0.36,Medium,8.516,2.018
+244.4,63.1,169.0,39.6,80.5,842.5,Clay,Maharashtra,Rabi,Cereal,Maize,4.028,321.4,Drip,0.213,Medium,22.114,5.49
+24.9,46.0,26.4,13.9,81.6,825.3,Peaty,Odisha,Rabi,Pulse,Moong,8.76,145.4,Drip,1.606,High,4.8,0.548
+148.3,55.5,118.7,22.1,89.6,120.2,Clay,Maharashtra,Rabi,Oilseed,Mustard,9.991,6.9,Canal,3.625,Medium,6.744,0.675
+117.2,53.2,272.6,27.9,22.6,936.0,Chalky,Punjab,Kharif,Vegetable,Onion,8.9,167.5,Tube well,4.602,High,195.542,21.971
+93.2,13.1,216.1,29.5,93.1,413.4,Clay,Punjab,Kharif,Vegetable,Tomato,2.315,252.3,Rainfed,2.147,Low,32.676,14.115
+175.4,116.7,41.6,37.7,41.7,1076.5,Peaty,Karnataka,Summer,Cereal,Barley,4.927,374.0,Rainfed,2.129,Medium,10.263,2.083
+164.4,15.4,210.5,36.1,22.4,503.0,Silt,Tamil Nadu,Summer,Cereal,Rice,1.485,20.1,Tube well,5.491,Medium,3.589,2.417
+2.9,24.1,62.0,13.4,94.8,221.9,Chalky,Bihar,Rabi,Pulse,Moong,7.519,54.1,Drip,0.165,Medium,1.278,0.17
+87.6,95.4,234.5,11.2,86.5,383.2,Clay,Odisha,Rabi,Pulse,Urad,6.252,241.5,Drip,0.738,Medium,3.176,0.508
+64.9,95.4,189.8,20.9,33.7,47.6,Clay,Maharashtra,Kharif,Pulse,Masoor,3.621,149.4,Drip,3.631,Low,2.354,0.65
+43.7,113.9,143.0,32.8,38.3,976.1,Sandy,Haryana,Kharif,Vegetable,Onion,8.518,142.8,Canal,5.795,High,145.326,17.061
+98.0,109.8,72.7,34.4,74.4,661.8,Peaty,Haryana,Summer,Vegetable,Onion,1.955,88.6,Tube well,1.039,High,40.637,20.786
+1.0,144.6,138.5,19.5,90.9,775.4,Peaty,Rajasthan,Rabi,Vegetable,Tomato,4.117,216.9,Drip,1.381,Low,68.602,16.663
+168.0,72.9,145.7,17.3,72.1,109.1,Sandy,Karnataka,Kharif,Vegetable,Tomato,2.21,262.4,Tube well,2.562,High,56.746,25.677
+134.9,138.5,226.8,11.1,41.8,580.6,Clay,Uttar Pradesh,Kharif,Cereal,Maize,8.413,109.1,Drip,4.276,High,52.363,6.224
+173.7,99.4,135.0,31.1,65.3,790.6,Silt,Punjab,Rabi,Vegetable,Tomato,8.238,343.6,Rainfed,1.687,Medium,221.47,26.884
+168.3,85.2,141.6,26.2,24.5,625.2,Clay,Maharashtra,Summer,Oilseed,Sesame,3.964,236.1,Tube well,3.151,Medium,3.825,0.965
+243.9,11.5,258.6,32.6,38.0,67.4,Chalky,Maharashtra,Summer,Cash,Sugarcane,0.984,297.2,Rainfed,3.152,Low,41.498,42.173
+237.7,29.9,275.6,38.7,90.7,539.9,Chalky,Tamil Nadu,Rabi,Oilseed,Sesame,7.074,35.5,Tube well,3.188,Low,2.66,0.376
+157.1,104.5,197.7,23.4,41.5,332.7,Peaty,Punjab,Rabi,Oilseed,Groundnut,7.713,3.6,Rainfed,4.473,Medium,8.963,1.162
+99.0,118.5,50.5,20.3,46.6,450.0,Silt,Punjab,Rabi,Pulse,Moong,9.92,175.2,Drip,1.897,Medium,8.551,0.862
+49.1,80.6,61.2,31.0,58.9,344.6,Sandy,Odisha,Rabi,Vegetable,Brinjal,1.698,85.3,Canal,2.235,High,17.316,10.198
+51.7,55.7,196.5,16.7,43.2,342.1,Silt,Punjab,Summer,Oilseed,Sesame,1.202,256.4,Tube well,4.787,Low,0.822,0.684
+181.0,138.4,162.5,27.4,28.8,924.0,Peaty,Maharashtra,Kharif,Oilseed,Groundnut,5.389,301.3,Tube well,1.449,Medium,13.451,2.496
+193.4,143.8,255.2,14.6,54.2,302.8,Peaty,Punjab,Kharif,Oilseed,Mustard,2.364,164.1,Rainfed,3.876,Medium,2.619,1.108
+201.4,15.6,241.4,25.7,22.0,1199.0,Silt,Tamil Nadu,Summer,Cereal,Wheat,0.934,274.8,Tube well,5.708,High,3.817,4.087
+182.3,108.8,277.2,19.6,46.8,1141.9,Silt,Tamil Nadu,Kharif,Oilseed,Mustard,1.957,174.4,Drip,3.473,High,3.037,1.552
+215.7,120.2,37.5,25.1,39.7,505.6,Clay,Odisha,Kharif,Fiber,Cotton,3.552,349.5,Rainfed,4.786,Medium,6.624,1.865
+114.7,37.6,110.3,37.1,67.1,34.4,Chalky,Haryana,Summer,Oilseed,Groundnut,3.429,172.6,Tube well,5.299,Medium,6.395,1.865
+249.4,71.4,48.8,24.7,32.5,514.5,Chalky,Karnataka,Kharif,Pulse,Urad,9.667,93.0,Tube well,4.424,Medium,4.94,0.511
+203.7,116.5,163.7,16.5,72.7,424.9,Loam,Karnataka,Summer,Pulse,Masoor,4.453,176.7,Drip,0.553,High,5.232,1.175
+165.2,132.8,17.7,31.6,50.9,210.9,Sandy,Punjab,Summer,Pulse,Moong,7.885,143.3,Rainfed,1.453,High,4.431,0.562
+155.9,139.7,195.6,37.9,57.4,843.4,Loam,Tamil Nadu,Summer,Cash,Sugarcane,1.085,363.4,Tube well,3.751,Medium,100.321,92.462
+80.0,6.6,278.8,17.1,47.5,267.9,Clay,Maharashtra,Summer,Pulse,Masoor,0.058,51.2,Drip,4.883,Medium,0.027,0.467
+154.8,8.2,292.0,26.7,30.8,403.4,Silt,Punjab,Rabi,Cereal,Barley,0.837,50.5,Rainfed,0.211,High,1.481,1.77
+58.5,24.2,256.4,31.1,29.8,696.7,Peaty,Maharashtra,Summer,Oilseed,Groundnut,8.259,234.8,Canal,5.451,Low,13.545,1.64
+24.4,48.4,35.1,29.9,32.7,663.2,Sandy,Gujarat,Rabi,Oilseed,Mustard,0.53,288.9,Canal,3.034,High,0.52,0.982
+230.4,72.2,134.5,11.7,67.9,511.8,Chalky,Karnataka,Rabi,Cereal,Maize,9.925,343.7,Tube well,3.12,Medium,61.128,6.159
+247.8,34.0,186.9,39.9,41.4,927.0,Peaty,Karnataka,Summer,Cash,Sugarcane,3.648,131.7,Canal,3.123,Medium,196.237,53.793
+233.3,110.9,119.6,9.3,66.4,402.8,Peaty,Gujarat,Kharif,Pulse,Moong,4.77,209.5,Canal,4.786,Medium,3.687,0.773
+166.6,125.4,5.4,33.9,36.1,1061.4,Chalky,Karnataka,Kharif,Pulse,Moong,8.137,99.5,Drip,1.035,Medium,3.621,0.445
+237.2,100.9,128.3,8.5,75.0,552.5,Chalky,Gujarat,Kharif,Pulse,Urad,9.694,136.1,Drip,2.017,Medium,5.225,0.539
+101.9,26.1,229.5,17.1,38.5,153.4,Sandy,Karnataka,Summer,Pulse,Urad,3.896,337.1,Drip,3.185,Medium,1.862,0.478
+35.5,30.4,13.6,22.6,86.2,308.2,Chalky,Bihar,Summer,Cereal,Barley,5.96,50.7,Drip,1.575,Medium,8.57,1.438
+138.3,68.4,23.3,22.2,64.3,269.4,Clay,Punjab,Rabi,Pulse,Urad,6.394,8.8,Tube well,2.279,Medium,2.564,0.401
+221.5,78.0,164.6,13.8,44.1,1104.3,Peaty,Haryana,Summer,Fiber,Cotton,2.498,123.4,Tube well,3.948,Medium,4.034,1.615
+224.1,45.2,103.6,23.9,90.8,612.0,Sandy,Punjab,Summer,Oilseed,Sesame,6.68,179.0,Tube well,0.215,High,5.591,0.837
+98.7,62.9,164.2,34.7,30.0,842.4,Clay,Maharashtra,Rabi,Pulse,Masoor,9.643,201.5,Rainfed,2.384,Medium,4.822,0.5
+85.3,85.7,128.5,37.8,92.3,1064.7,Sandy,Tamil Nadu,Kharif,Cereal,Maize,2.586,319.2,Drip,0.155,Medium,10.207,3.947
+241.9,55.7,68.8,34.7,24.0,688.8,Loam,Rajasthan,Rabi,Pulse,Chana,4.369,350.5,Tube well,1.696,High,5.225,1.196
+13.0,144.8,193.3,32.8,63.7,53.9,Silt,Karnataka,Rabi,Pulse,Chana,8.811,297.7,Tube well,5.836,Low,7.251,0.823
+44.4,140.4,284.0,18.3,79.6,75.5,Loam,Maharashtra,Rabi,Oilseed,Sesame,7.191,46.6,Rainfed,0.744,Medium,3.509,0.488
+23.0,53.3,177.3,26.1,76.7,195.4,Loam,Maharashtra,Summer,Oilseed,Groundnut,5.791,7.2,Tube well,5.823,High,8.212,1.418
+99.2,114.3,202.9,22.6,72.4,421.0,Clay,Uttar Pradesh,Kharif,Cereal,Wheat,1.481,366.6,Drip,3.86,Low,6.236,4.211
+106.7,35.0,112.5,9.6,22.1,256.4,Loam,Rajasthan,Kharif,Vegetable,Potato,8.272,333.6,Tube well,0.378,Medium,154.579,18.687
+7.3,111.7,236.6,19.8,43.8,90.8,Loam,Maharashtra,Kharif,Cereal,Rice,9.482,3.2,Drip,0.756,Medium,17.911,1.889
+184.4,108.2,11.9,16.1,43.2,475.1,Clay,Rajasthan,Rabi,Oilseed,Mustard,3.676,66.6,Rainfed,2.853,Medium,2.812,0.765
+176.3,32.6,120.4,14.3,25.2,1067.4,Sandy,Uttar Pradesh,Summer,Oilseed,Soybean,5.973,354.9,Canal,3.082,Medium,11.343,1.899
+152.2,112.5,214.3,36.4,77.1,882.9,Peaty,Rajasthan,Summer,Pulse,Chana,1.419,384.7,Rainfed,3.624,High,1.711,1.206
+38.5,2.6,22.4,18.3,37.6,673.2,Chalky,Bihar,Rabi,Pulse,Chana,9.029,17.6,Rainfed,1.632,High,2.853,0.316
+12.4,105.4,277.6,26.0,92.0,941.3,Loam,Tamil Nadu,Rabi,Vegetable,Onion,1.035,317.6,Tube well,4.551,Low,18.471,17.846
+199.4,18.9,260.2,11.2,69.4,392.9,Peaty,Uttar Pradesh,Summer,Pulse,Moong,4.124,11.7,Tube well,0.016,Low,1.101,0.267
+45.5,58.3,224.2,33.2,67.4,1109.6,Loam,Bihar,Rabi,Vegetable,Onion,5.397,324.2,Tube well,1.536,High,131.989,24.456
+144.5,26.7,68.7,9.3,27.1,615.6,Peaty,Karnataka,Summer,Pulse,Masoor,1.252,5.7,Rainfed,1.432,High,0.423,0.338
+179.3,26.0,20.6,18.6,35.4,622.0,Chalky,Maharashtra,Kharif,Pulse,Masoor,8.622,305.5,Tube well,0.671,High,6.639,0.77
+115.2,70.4,130.7,18.1,45.1,422.1,Clay,Punjab,Rabi,Vegetable,Brinjal,8.287,36.7,Rainfed,2.05,Medium,58.697,7.083
+25.3,140.7,110.8,11.3,40.6,677.4,Sandy,Haryana,Summer,Vegetable,Onion,1.767,315.7,Rainfed,4.616,Low,20.195,11.429
+85.1,81.6,20.5,12.7,42.8,1119.1,Peaty,Maharashtra,Summer,Cereal,Maize,0.581,335.1,Rainfed,1.42,High,2.427,4.177
+69.1,40.3,171.9,19.3,41.6,131.1,Silt,Punjab,Summer,Pulse,Moong,6.016,298.0,Drip,2.348,Medium,4.524,0.752
+26.3,132.6,289.4,39.2,73.0,515.1,Sandy,Gujarat,Kharif,Pulse,Moong,9.471,258.5,Drip,2.032,Medium,5.361,0.566
+206.3,55.7,212.0,27.1,69.5,733.1,Silt,Karnataka,Kharif,Pulse,Chana,3.26,324.8,Drip,3.653,Medium,5.506,1.689
+97.8,7.3,266.1,24.6,20.6,386.8,Loam,Maharashtra,Summer,Vegetable,Tomato,8.566,122.1,Drip,3.156,Medium,182.31,21.283
+116.4,111.1,10.1,16.3,33.7,897.1,Clay,Rajasthan,Summer,Cash,Sugarcane,3.165,97.5,Rainfed,2.131,High,160.75,50.79
+63.0,25.6,68.1,29.6,77.0,156.9,Loam,Punjab,Kharif,Vegetable,Potato,7.657,63.3,Tube well,4.322,High,199.327,26.032
+241.3,115.9,222.8,39.1,61.4,824.9,Loam,Haryana,Summer,Vegetable,Tomato,5.949,110.1,Drip,1.078,High,165.906,27.888
+67.5,115.2,213.4,16.4,44.0,515.6,Sandy,Gujarat,Summer,Vegetable,Onion,2.808,120.4,Rainfed,0.848,High,42.513,15.14
+125.5,81.0,31.3,15.1,84.5,12.1,Silt,Karnataka,Rabi,Vegetable,Tomato,9.836,351.3,Tube well,3.171,Medium,227.684,23.148
+178.5,85.0,294.0,38.8,57.4,1187.2,Sandy,Odisha,Rabi,Pulse,Masoor,8.645,90.7,Tube well,1.156,Medium,5.369,0.621
+249.1,46.1,98.3,35.7,61.5,408.3,Clay,Uttar Pradesh,Rabi,Cereal,Barley,1.752,293.9,Rainfed,1.64,High,5.06,2.888
+241.7,9.7,94.3,21.4,76.3,578.2,Clay,Maharashtra,Summer,Vegetable,Brinjal,5.22,169.0,Drip,1.733,Medium,66.764,12.79
+94.4,11.9,170.4,25.2,57.3,89.7,Silt,Maharashtra,Kharif,Oilseed,Mustard,9.088,280.9,Canal,2.399,Medium,12.669,1.394
+168.8,39.7,259.0,34.8,31.0,726.7,Loam,Tamil Nadu,Kharif,Oilseed,Sesame,9.218,332.3,Tube well,5.345,Low,7.033,0.763
+233.0,51.4,147.3,21.7,32.4,33.8,Sandy,Tamil Nadu,Summer,Oilseed,Sesame,4.194,162.7,Tube well,1.939,Medium,2.978,0.71
+192.3,143.2,191.6,33.4,81.8,595.5,Silt,Uttar Pradesh,Rabi,Vegetable,Onion,5.864,38.8,Canal,2.877,Medium,110.513,18.846
+146.4,148.9,268.8,16.5,79.2,394.5,Peaty,Maharashtra,Kharif,Vegetable,Potato,6.274,371.1,Rainfed,3.766,Medium,199.695,31.829
+107.3,11.6,33.2,17.6,21.3,225.8,Loam,Rajasthan,Rabi,Cereal,Barley,5.749,30.4,Tube well,5.827,High,9.779,1.701
+203.9,36.3,214.8,24.7,61.9,339.1,Sandy,Gujarat,Rabi,Cereal,Wheat,6.915,289.1,Rainfed,0.512,Low,18.173,2.628
+163.7,2.0,298.5,14.9,50.6,973.4,Loam,Uttar Pradesh,Rabi,Fiber,Cotton,0.202,377.0,Tube well,0.158,High,0.344,1.703
+110.0,92.2,138.2,34.7,28.2,1198.5,Chalky,Tamil Nadu,Rabi,Oilseed,Soybean,5.332,109.5,Drip,3.204,High,10.877,2.04
+13.6,106.9,273.3,10.9,57.1,236.3,Loam,Punjab,Kharif,Vegetable,Onion,5.885,62.2,Rainfed,1.225,Low,52.459,8.914
+84.7,35.7,36.0,15.3,90.5,1009.7,Clay,Karnataka,Rabi,Pulse,Chana,7.064,115.7,Rainfed,1.368,Low,3.504,0.496
+164.4,21.2,180.4,31.1,55.5,819.2,Chalky,Gujarat,Summer,Cereal,Rice,6.327,11.2,Drip,5.095,High,22.328,3.529
+200.0,6.0,224.5,24.6,65.9,436.1,Chalky,Karnataka,Rabi,Cereal,Rice,1.854,365.8,Rainfed,3.12,High,9.589,5.172
+144.0,103.0,296.1,8.9,88.7,536.6,Chalky,Tamil Nadu,Kharif,Vegetable,Tomato,3.733,105.9,Tube well,0.772,Medium,64.387,17.248
+208.9,68.5,242.3,22.5,36.1,1159.6,Clay,Tamil Nadu,Rabi,Vegetable,Tomato,4.219,209.6,Drip,4.95,High,127.308,30.175
+98.5,122.1,45.9,13.1,52.7,472.7,Loam,Gujarat,Summer,Cereal,Rice,6.733,28.5,Canal,1.352,Medium,21.714,3.225
+196.7,104.3,210.4,21.8,38.1,889.3,Chalky,Uttar Pradesh,Summer,Cereal,Maize,6.659,308.8,Drip,5.244,Medium,45.767,6.873
+56.5,105.4,14.8,28.1,94.4,1018.7,Silt,Maharashtra,Summer,Cereal,Rice,7.212,175.5,Drip,5.301,Low,25.884,3.589
+81.8,78.0,164.0,14.6,21.6,716.1,Peaty,Odisha,Rabi,Cereal,Wheat,6.158,151.0,Tube well,2.773,Medium,17.47,2.837
+109.7,111.2,264.3,20.9,83.7,721.0,Sandy,Odisha,Rabi,Oilseed,Groundnut,3.983,158.5,Rainfed,2.136,Medium,7.106,1.784
+156.0,96.2,80.8,15.4,50.5,607.5,Silt,Haryana,Kharif,Oilseed,Groundnut,2.624,382.5,Rainfed,4.741,Medium,5.933,2.261
+190.8,45.6,80.2,20.4,93.5,1132.3,Chalky,Gujarat,Kharif,Oilseed,Mustard,1.803,44.7,Rainfed,5.679,Medium,1.199,0.665
+33.0,145.1,263.2,12.4,55.1,1085.0,Silt,Gujarat,Summer,Oilseed,Mustard,3.556,370.7,Canal,0.063,Medium,3.325,0.935
+15.9,92.8,25.6,25.2,67.7,1025.9,Chalky,Tamil Nadu,Summer,Vegetable,Tomato,3.625,224.8,Drip,1.973,Medium,76.531,21.112
+196.8,138.6,81.4,14.8,62.7,980.8,Sandy,Punjab,Summer,Oilseed,Sesame,6.632,228.1,Drip,5.232,High,6.188,0.933
+188.4,144.3,239.0,34.7,28.0,742.0,Sandy,Odisha,Rabi,Vegetable,Brinjal,2.838,118.7,Drip,3.756,Medium,27.424,9.663
+151.4,51.1,29.9,30.7,91.2,946.4,Silt,Karnataka,Kharif,Oilseed,Sesame,1.616,142.5,Rainfed,1.853,High,1.17,0.724
+228.6,134.1,182.8,8.9,67.0,859.8,Clay,Odisha,Rabi,Pulse,Urad,9.748,267.1,Canal,1.534,High,6.707,0.688
+18.0,67.4,7.3,29.7,41.4,1130.8,Peaty,Karnataka,Summer,Cereal,Rice,0.422,138.2,Drip,0.183,Medium,1.168,2.767
+95.9,134.2,115.4,8.3,44.9,353.5,Loam,Rajasthan,Rabi,Pulse,Masoor,9.396,244.7,Tube well,5.279,High,8.25,0.878
+114.5,95.9,231.4,10.4,22.4,564.1,Chalky,Rajasthan,Summer,Oilseed,Sesame,4.249,264.9,Rainfed,1.778,Medium,2.231,0.525
+154.4,41.5,244.9,38.2,36.4,564.0,Chalky,Haryana,Rabi,Vegetable,Brinjal,5.615,12.4,Canal,2.942,Medium,37.053,6.599
+131.5,133.8,210.1,31.2,52.0,1155.7,Loam,Gujarat,Rabi,Oilseed,Soybean,7.983,265.2,Tube well,1.489,Medium,26.296,3.294
+29.2,118.4,61.8,22.4,39.5,997.4,Silt,Punjab,Kharif,Vegetable,Onion,8.996,25.2,Rainfed,4.374,Medium,86.73,9.641
+201.3,43.9,220.0,9.1,35.1,87.5,Clay,Gujarat,Rabi,Vegetable,Onion,9.998,296.8,Drip,2.243,Medium,159.348,15.938
+236.6,40.8,210.5,35.7,66.2,410.7,Chalky,Bihar,Rabi,Cereal,Wheat,6.411,306.5,Drip,5.965,High,28.696,4.476
+227.7,127.9,257.5,25.1,62.5,272.4,Sandy,Maharashtra,Kharif,Oilseed,Soybean,6.366,58.2,Rainfed,0.144,Low,11.045,1.735
+136.9,82.5,275.6,39.9,86.8,1048.0,Peaty,Odisha,Rabi,Oilseed,Soybean,1.793,241.6,Tube well,5.331,Medium,4.231,2.36
+182.5,51.9,258.8,27.1,58.9,1121.8,Sandy,Odisha,Summer,Vegetable,Onion,5.046,56.1,Drip,2.185,Medium,87.155,17.272
+78.8,50.7,198.1,8.6,61.4,293.9,Loam,Gujarat,Kharif,Oilseed,Sesame,7.361,344.2,Tube well,0.736,Low,5.241,0.712
+98.9,108.6,228.7,15.4,39.0,6.2,Loam,Rajasthan,Kharif,Cereal,Maize,9.642,194.7,Drip,4.489,Low,52.028,5.396
+115.3,121.5,264.1,20.7,87.5,875.2,Chalky,Gujarat,Summer,Oilseed,Soybean,0.426,120.6,Canal,2.757,Medium,1.093,2.566
+101.1,91.5,139.4,24.0,92.9,427.2,Silt,Punjab,Rabi,Cereal,Maize,8.185,309.8,Canal,5.376,High,64.891,7.928
+185.9,49.7,114.1,37.2,56.4,831.6,Loam,Odisha,Kharif,Cereal,Maize,8.167,395.7,Tube well,4.322,Low,48.577,5.948
+226.7,66.0,62.9,37.8,25.5,738.4,Chalky,Bihar,Kharif,Pulse,Chana,4.337,353.0,Drip,5.432,Medium,4.12,0.95
+134.6,54.6,79.7,36.8,40.4,11.4,Sandy,Bihar,Summer,Cereal,Rice,4.029,317.3,Canal,1.099,High,16.475,4.089
+66.4,92.1,163.3,18.1,20.8,759.3,Peaty,Odisha,Kharif,Cash,Sugarcane,9.511,142.9,Rainfed,0.401,Medium,458.383,48.195
+149.6,141.0,39.7,8.7,34.1,799.9,Loam,Karnataka,Summer,Oilseed,Sesame,3.79,361.1,Canal,5.121,Medium,2.918,0.77
+121.8,95.2,239.1,16.2,21.0,1.2,Clay,Punjab,Kharif,Cereal,Wheat,0.588,259.5,Rainfed,0.188,High,1.505,2.56
+87.8,138.1,52.2,18.9,68.4,1068.3,Loam,Gujarat,Kharif,Cereal,Barley,8.676,121.1,Drip,5.012,High,32.414,3.736
+115.1,146.0,109.3,13.8,82.2,736.3,Chalky,Uttar Pradesh,Summer,Vegetable,Onion,8.936,0.9,Drip,4.861,Low,84.499,9.456
+152.1,97.9,45.2,39.1,85.1,1162.6,Silt,Punjab,Summer,Cash,Sugarcane,5.437,13.0,Drip,4.471,Medium,211.809,38.957
+186.1,72.2,255.5,36.1,39.5,948.6,Peaty,Uttar Pradesh,Kharif,Fiber,Cotton,9.06,93.3,Tube well,5.025,Low,11.352,1.253
+106.2,144.7,241.7,18.5,61.3,247.0,Loam,Rajasthan,Summer,Pulse,Masoor,6.465,14.2,Drip,5.735,High,4.713,0.729
+194.7,117.5,105.0,13.1,72.6,746.0,Peaty,Odisha,Rabi,Pulse,Urad,1.412,0.1,Rainfed,3.53,Medium,0.393,0.278
+131.2,143.2,128.4,22.1,74.6,28.7,Sandy,Punjab,Kharif,Cereal,Wheat,1.727,100.5,Canal,5.656,High,6.278,3.635
+161.5,90.0,267.4,39.3,22.7,348.6,Chalky,Maharashtra,Kharif,Fiber,Cotton,4.638,187.5,Rainfed,4.084,Low,4.267,0.92
+185.7,123.9,33.6,35.0,37.0,745.6,Sandy,Odisha,Kharif,Oilseed,Soybean,4.966,20.6,Drip,2.957,High,7.504,1.511
+39.4,24.8,284.7,31.9,48.5,28.2,Peaty,Karnataka,Rabi,Vegetable,Onion,4.985,81.0,Rainfed,2.898,Medium,59.695,11.975
+76.8,41.4,72.5,27.0,40.2,420.4,Loam,Tamil Nadu,Rabi,Vegetable,Potato,9.507,9.0,Rainfed,3.322,Medium,155.905,16.399
+50.3,137.1,195.5,30.9,78.5,920.9,Loam,Odisha,Summer,Vegetable,Potato,5.015,96.8,Rainfed,5.534,High,126.192,25.163
+102.8,43.1,122.3,15.9,31.4,894.7,Sandy,Maharashtra,Kharif,Pulse,Urad,6.688,179.4,Drip,2.984,Medium,2.876,0.43
+55.7,53.6,144.7,30.1,89.0,13.7,Loam,Punjab,Kharif,Vegetable,Potato,8.47,366.0,Tube well,1.5,Medium,231.46,27.327
+85.2,105.0,28.3,19.7,84.5,334.1,Sandy,Bihar,Rabi,Vegetable,Onion,8.243,248.9,Tube well,0.347,Low,120.002,14.558
+217.8,62.2,179.6,9.3,58.8,187.6,Chalky,Tamil Nadu,Kharif,Cereal,Wheat,6.9,346.9,Canal,0.436,Medium,22.17,3.213
+202.5,136.7,255.9,33.0,81.7,1068.5,Loam,Odisha,Kharif,Pulse,Chana,9.56,239.9,Tube well,5.051,High,13.518,1.414
+196.5,31.6,136.7,26.4,48.8,58.0,Peaty,Tamil Nadu,Summer,Oilseed,Mustard,3.19,240.1,Canal,3.303,High,4.954,1.553
+31.8,87.8,225.4,11.9,32.5,1155.1,Chalky,Maharashtra,Kharif,Oilseed,Groundnut,8.888,120.3,Canal,4.963,High,10.372,1.167
+183.5,61.5,99.1,12.0,43.6,1036.3,Clay,Haryana,Rabi,Vegetable,Brinjal,3.145,87.1,Rainfed,3.092,High,24.965,7.938
+98.5,74.4,178.5,16.5,20.5,987.5,Loam,Tamil Nadu,Summer,Pulse,Masoor,5.566,339.2,Tube well,1.569,Medium,4.23,0.76
+26.5,106.9,32.3,34.3,93.2,0.0,Sandy,Maharashtra,Kharif,Cereal,Wheat,1.687,319.6,Canal,5.283,Medium,3.364,1.994
+27.9,74.2,264.4,33.5,78.1,57.2,Clay,Gujarat,Kharif,Oilseed,Mustard,7.453,261.6,Canal,2.851,Medium,7.87,1.056
+18.9,116.8,282.8,33.6,20.1,1005.3,Sandy,Odisha,Kharif,Oilseed,Soybean,6.289,96.7,Drip,0.581,Medium,9.012,1.433
+155.4,18.9,274.6,11.4,82.0,595.0,Chalky,Odisha,Kharif,Oilseed,Soybean,9.311,350.4,Rainfed,5.099,Low,17.058,1.832
+161.8,43.3,136.9,29.1,33.5,1030.3,Silt,Odisha,Rabi,Vegetable,Tomato,4.203,369.0,Rainfed,5.71,High,114.477,27.237
+55.1,131.1,35.3,23.2,89.6,936.2,Chalky,Bihar,Rabi,Oilseed,Groundnut,4.748,396.9,Canal,5.988,Medium,9.183,1.934
+178.3,37.5,144.9,12.6,35.0,785.9,Sandy,Punjab,Rabi,Cereal,Maize,0.786,299.6,Rainfed,3.401,High,3.665,4.663
+205.5,4.2,172.9,36.1,36.0,107.6,Sandy,Bihar,Rabi,Cereal,Wheat,7.355,92.2,Rainfed,4.836,Low,6.818,0.927
+120.9,67.9,170.1,34.4,90.2,960.4,Peaty,Haryana,Rabi,Cereal,Wheat,9.695,313.5,Rainfed,3.809,High,31.082,3.206
+223.4,50.6,197.0,20.5,56.8,119.9,Silt,Uttar Pradesh,Rabi,Oilseed,Soybean,8.454,160.2,Tube well,2.869,High,28.811,3.408
+127.4,55.5,72.4,33.4,27.2,958.1,Loam,Rajasthan,Summer,Vegetable,Onion,6.96,275.8,Rainfed,5.971,High,128.335,18.439
+235.1,53.4,21.8,26.1,61.9,32.7,Loam,Rajasthan,Summer,Vegetable,Brinjal,8.639,389.1,Rainfed,3.449,Low,95.971,11.109
+8.5,37.2,124.4,35.6,65.6,553.5,Loam,Rajasthan,Rabi,Vegetable,Onion,3.372,93.4,Drip,2.048,Medium,48.098,14.264
+68.2,117.0,196.0,16.4,70.6,945.7,Peaty,Haryana,Summer,Cereal,Maize,5.471,136.0,Canal,2.337,Medium,32.449,5.931
+74.1,7.4,83.9,16.7,52.7,23.6,Silt,Punjab,Rabi,Oilseed,Sesame,1.157,297.7,Rainfed,5.113,Low,0.574,0.496
+81.5,75.8,222.7,21.4,77.1,685.1,Sandy,Rajasthan,Kharif,Vegetable,Potato,3.839,31.1,Drip,1.986,Medium,91.222,23.762
+100.0,77.6,236.7,14.4,73.6,1149.2,Clay,Bihar,Rabi,Cereal,Barley,2.466,85.3,Rainfed,5.358,High,5.137,2.083
+111.2,7.5,79.2,28.3,20.6,843.1,Loam,Tamil Nadu,Summer,Cereal,Maize,0.5,185.5,Tube well,4.062,Medium,2.661,5.322
+22.1,1.0,184.5,14.9,49.7,1062.5,Chalky,Karnataka,Rabi,Pulse,Moong,0.983,207.9,Drip,0.219,Low,0.304,0.309
+19.1,77.4,11.3,17.6,47.9,140.1,Chalky,Uttar Pradesh,Rabi,Fiber,Cotton,9.97,46.7,Drip,3.962,High,10.07,1.01
+124.1,121.7,139.3,12.3,91.5,508.9,Silt,Karnataka,Kharif,Pulse,Chana,9.337,375.0,Canal,2.547,High,10.896,1.167
+65.3,27.7,75.1,37.1,22.5,719.4,Chalky,Rajasthan,Kharif,Oilseed,Mustard,7.226,252.6,Canal,1.629,Medium,5.983,0.828
+110.9,5.5,228.3,17.1,40.1,91.6,Peaty,Maharashtra,Summer,Pulse,Chana,4.599,238.1,Tube well,1.764,High,4.171,0.907
+97.3,50.8,158.1,14.0,27.2,106.0,Loam,Uttar Pradesh,Kharif,Vegetable,Potato,3.992,88.5,Tube well,3.672,High,86.515,21.672
+211.4,59.5,200.5,22.2,21.2,436.9,Clay,Rajasthan,Summer,Oilseed,Soybean,6.779,268.0,Canal,5.464,Medium,20.622,3.042
+66.1,56.4,108.2,12.9,64.6,959.7,Peaty,Punjab,Rabi,Pulse,Masoor,2.457,68.8,Canal,0.415,High,1.6,0.651
+122.0,143.2,193.8,13.7,73.8,627.8,Loam,Haryana,Kharif,Vegetable,Onion,2.738,231.5,Tube well,1.855,Low,59.573,21.758
+161.0,12.2,14.6,25.9,47.1,480.6,Peaty,Gujarat,Rabi,Cash,Sugarcane,9.021,396.6,Drip,0.552,High,743.132,82.378
+226.9,62.4,77.0,16.7,83.8,975.9,Clay,Tamil Nadu,Summer,Vegetable,Brinjal,0.999,118.5,Tube well,2.493,High,12.094,12.106
+27.4,40.6,104.6,32.5,23.6,103.9,Silt,Punjab,Summer,Fiber,Cotton,0.804,231.0,Rainfed,5.766,High,1.035,1.287
+94.8,69.3,139.5,22.8,56.0,634.2,Sandy,Odisha,Summer,Fiber,Cotton,4.448,2.0,Tube well,4.591,Medium,4.693,1.055
+40.9,51.2,235.3,21.2,83.4,718.0,Sandy,Bihar,Kharif,Pulse,Moong,4.188,347.3,Canal,5.537,High,3.036,0.725
+162.1,17.2,98.0,23.2,81.6,685.2,Chalky,Punjab,Rabi,Oilseed,Soybean,4.154,334.3,Canal,5.248,Low,9.513,2.29
+168.3,53.5,227.7,32.9,59.2,238.9,Silt,Haryana,Kharif,Cereal,Maize,4.646,396.4,Tube well,2.606,Medium,33.502,7.211
+160.4,123.2,165.9,8.3,93.6,1079.2,Silt,Rajasthan,Kharif,Cereal,Barley,3.246,238.0,Tube well,3.788,Medium,8.014,2.469
+161.9,71.7,199.3,10.7,21.9,472.7,Chalky,Maharashtra,Rabi,Pulse,Chana,2.151,108.4,Drip,3.594,High,1.794,0.834
+37.7,124.5,191.3,23.8,82.2,1132.3,Sandy,Karnataka,Rabi,Oilseed,Mustard,0.791,359.9,Tube well,0.948,Medium,0.86,1.087
+7.4,60.7,79.9,26.6,86.5,221.9,Chalky,Bihar,Rabi,Vegetable,Potato,1.605,324.9,Canal,3.368,High,39.987,24.914
+76.1,24.5,121.6,10.0,57.6,308.5,Chalky,Maharashtra,Rabi,Pulse,Urad,0.382,36.4,Drip,3.454,Medium,0.1,0.263
+84.3,113.6,298.0,25.6,73.5,190.4,Sandy,Rajasthan,Kharif,Pulse,Masoor,3.559,321.5,Canal,4.54,Medium,3.313,0.931
+103.6,121.2,18.7,20.4,65.2,1167.5,Clay,Maharashtra,Rabi,Fiber,Cotton,0.271,31.0,Canal,0.118,Low,0.242,0.894
+62.0,103.4,96.7,24.8,34.9,75.6,Chalky,Punjab,Kharif,Vegetable,Brinjal,3.118,225.0,Tube well,2.879,Medium,33.01,10.587
+246.6,60.6,123.8,11.9,61.1,555.6,Clay,Uttar Pradesh,Kharif,Oilseed,Soybean,2.171,99.0,Rainfed,5.403,Low,3.526,1.624
+17.8,111.4,107.1,34.9,47.1,559.9,Clay,Tamil Nadu,Rabi,Cash,Sugarcane,6.724,390.8,Drip,2.068,High,472.321,70.244
+224.0,91.1,128.5,16.3,76.9,481.0,Loam,Tamil Nadu,Summer,Cereal,Barley,6.506,126.7,Rainfed,3.078,Medium,17.664,2.715
+78.1,120.5,250.8,14.8,83.7,786.5,Loam,Odisha,Rabi,Oilseed,Mustard,4.402,102.5,Tube well,3.293,Medium,4.384,0.996
+24.2,85.3,293.3,38.7,63.2,977.2,Chalky,Bihar,Summer,Oilseed,Mustard,7.227,166.0,Rainfed,3.79,High,5.977,0.827
+144.0,132.1,256.0,15.3,54.0,141.4,Chalky,Uttar Pradesh,Kharif,Vegetable,Tomato,3.579,372.0,Canal,3.086,High,96.146,26.864
+40.1,50.2,89.6,38.1,72.4,160.4,Chalky,Gujarat,Rabi,Vegetable,Onion,1.558,188.3,Drip,3.994,High,24.992,16.041
+189.8,109.2,151.4,16.2,43.9,298.2,Chalky,Odisha,Kharif,Cash,Sugarcane,0.462,115.5,Drip,4.87,Medium,32.884,71.178
+138.4,58.9,183.6,25.4,58.5,1186.0,Sandy,Maharashtra,Rabi,Oilseed,Groundnut,0.504,362.2,Tube well,4.043,Medium,1.184,2.349
+194.7,81.4,2.4,32.0,28.3,1014.8,Chalky,Odisha,Rabi,Pulse,Moong,5.417,358.1,Canal,2.848,Medium,3.191,0.589
+159.7,66.4,36.0,15.3,73.9,95.2,Clay,Tamil Nadu,Rabi,Oilseed,Sesame,8.215,222.8,Rainfed,1.942,Medium,5.52,0.672
+230.6,134.7,192.1,28.4,33.1,1013.1,Silt,Punjab,Summer,Oilseed,Mustard,6.058,5.7,Rainfed,0.518,Low,2.563,0.423
+76.7,136.6,171.0,39.8,67.9,1140.3,Silt,Maharashtra,Rabi,Pulse,Urad,3.426,67.6,Tube well,5.173,Medium,1.227,0.358
+33.8,65.7,193.6,33.2,84.1,740.6,Clay,Gujarat,Kharif,Vegetable,Brinjal,5.356,227.3,Drip,3.984,Low,48.627,9.079
+166.9,67.4,254.9,36.0,28.7,820.8,Loam,Karnataka,Kharif,Vegetable,Potato,8.639,96.6,Drip,3.171,Medium,227.81,26.37
+232.2,81.5,115.0,19.2,84.8,697.6,Loam,Bihar,Kharif,Pulse,Urad,8.331,223.7,Drip,3.896,Medium,7.123,0.855
+154.0,22.7,29.6,33.0,75.8,341.6,Peaty,Tamil Nadu,Rabi,Vegetable,Onion,6.321,34.3,Drip,4.354,Low,83.614,13.228
+222.1,132.7,174.3,36.1,51.1,53.8,Sandy,Tamil Nadu,Summer,Cash,Sugarcane,6.381,218.7,Rainfed,0.244,High,353.144,55.343
+12.2,109.3,249.7,10.5,62.5,99.0,Peaty,Karnataka,Kharif,Vegetable,Onion,4.705,221.4,Tube well,5.555,Medium,78.569,16.699
+206.0,65.7,69.6,24.1,46.6,1072.1,Clay,Bihar,Kharif,Cereal,Maize,9.944,353.2,Canal,1.455,Medium,68.912,6.93
+218.9,9.1,118.6,39.4,66.6,557.7,Sandy,Odisha,Kharif,Vegetable,Brinjal,7.125,174.3,Drip,5.519,High,78.646,11.038
+161.0,60.8,23.0,30.8,45.0,4.4,Silt,Haryana,Summer,Fiber,Cotton,5.364,245.4,Rainfed,0.123,Medium,6.989,1.303
+109.5,4.1,139.0,10.6,46.6,752.1,Clay,Haryana,Kharif,Cereal,Maize,9.022,61.8,Canal,4.39,Medium,34.049,3.774
+73.2,18.2,95.8,32.4,83.7,600.8,Loam,Rajasthan,Rabi,Fiber,Cotton,1.966,350.9,Drip,3.992,High,4.15,2.111
+30.5,131.0,197.5,10.1,24.6,119.1,Peaty,Odisha,Kharif,Cereal,Wheat,0.812,113.9,Tube well,1.616,High,1.401,1.725
+240.7,50.1,117.9,17.1,51.8,778.8,Loam,Uttar Pradesh,Rabi,Oilseed,Sesame,1.168,325.4,Canal,0.95,Medium,1.15,0.985
+48.4,142.9,210.2,23.6,75.3,1028.4,Loam,Uttar Pradesh,Kharif,Cereal,Maize,9.435,393.0,Rainfed,0.941,Medium,57.563,6.101
+166.5,28.4,53.3,16.3,29.2,1140.9,Peaty,Karnataka,Rabi,Oilseed,Groundnut,0.44,229.5,Rainfed,1.077,Low,0.453,1.029
+5.3,81.8,230.5,8.9,69.7,945.7,Loam,Bihar,Kharif,Oilseed,Mustard,6.196,43.4,Tube well,4.848,Low,3.333,0.538
+57.1,102.7,116.4,22.1,77.3,115.7,Chalky,Tamil Nadu,Kharif,Cereal,Rice,8.675,142.7,Rainfed,1.615,Medium,30.475,3.513
+243.0,119.5,144.3,31.7,71.8,453.5,Sandy,Rajasthan,Rabi,Pulse,Chana,5.048,227.9,Drip,0.156,Medium,5.896,1.168
+156.8,14.9,64.2,18.4,66.3,838.1,Sandy,Maharashtra,Summer,Oilseed,Mustard,2.614,171.8,Drip,3.007,Medium,2.821,1.079
+154.5,92.8,225.5,26.8,80.3,733.4,Sandy,Rajasthan,Kharif,Oilseed,Groundnut,7.731,298.0,Drip,5.057,High,22.946,2.968
+92.0,57.1,87.4,17.6,70.0,618.9,Sandy,Karnataka,Kharif,Fiber,Cotton,9.52,383.7,Canal,3.347,Medium,15.441,1.622
+6.4,12.8,268.9,10.1,94.2,1044.7,Clay,Punjab,Summer,Pulse,Chana,1.455,67.2,Rainfed,0.251,High,0.391,0.269
+175.8,46.7,118.7,38.5,28.7,1077.6,Peaty,Karnataka,Kharif,Cereal,Wheat,7.33,224.7,Drip,0.146,Medium,17.16,2.341
+175.0,107.3,146.1,24.5,75.7,20.1,Peaty,Punjab,Rabi,Pulse,Chana,7.502,124.1,Canal,1.588,High,10.255,1.367
+219.8,52.8,138.7,39.1,29.5,252.0,Sandy,Gujarat,Summer,Pulse,Moong,6.279,133.6,Rainfed,1.4,Low,1.595,0.254
+177.4,40.8,181.1,39.6,85.6,562.0,Loam,Bihar,Rabi,Pulse,Masoor,3.081,148.7,Canal,4.658,High,2.69,0.873
+92.5,98.7,178.3,31.2,83.8,187.3,Peaty,Rajasthan,Rabi,Oilseed,Groundnut,1.222,221.8,Canal,0.109,High,2.891,2.366
+128.5,134.0,172.2,11.5,23.2,430.3,Silt,Bihar,Summer,Cereal,Wheat,0.398,80.6,Rainfed,0.348,Low,0.643,1.616
+68.8,32.3,50.8,27.1,40.6,515.9,Silt,Haryana,Rabi,Oilseed,Mustard,7.353,377.2,Canal,5.308,High,10.743,1.461
+162.0,114.3,84.5,37.1,21.8,474.6,Silt,Gujarat,Kharif,Oilseed,Soybean,6.199,290.2,Drip,5.401,Medium,15.504,2.501
+103.8,144.2,165.5,33.2,63.4,689.2,Chalky,Uttar Pradesh,Kharif,Vegetable,Onion,3.171,31.4,Rainfed,5.176,Medium,42.964,13.549
+34.0,3.1,299.0,36.4,80.7,441.4,Clay,Haryana,Summer,Oilseed,Mustard,2.43,138.1,Rainfed,1.724,Medium,1.402,0.577
+234.0,48.0,114.1,9.1,48.5,691.8,Loam,Haryana,Kharif,Cereal,Maize,5.127,251.6,Rainfed,1.565,Medium,25.691,5.011
+61.8,149.1,101.6,33.3,69.1,954.5,Clay,Punjab,Kharif,Pulse,Urad,0.159,369.8,Drip,3.957,High,0.111,0.699
+234.2,138.1,111.3,28.0,64.9,1083.3,Silt,Odisha,Summer,Oilseed,Groundnut,5.09,181.2,Rainfed,5.106,Low,10.643,2.091
+203.8,74.8,248.8,39.4,35.3,925.3,Peaty,Odisha,Kharif,Vegetable,Potato,4.75,121.1,Rainfed,3.496,Medium,85.885,18.081
+47.4,105.3,196.5,25.7,36.1,265.2,Silt,Punjab,Summer,Pulse,Masoor,3.507,229.4,Canal,0.182,Medium,2.771,0.79
+54.3,61.7,271.6,20.8,79.2,1027.4,Clay,Gujarat,Summer,Vegetable,Brinjal,2.592,97.4,Drip,4.95,Medium,29.922,11.544
+58.5,52.3,34.5,32.1,42.7,873.9,Silt,Tamil Nadu,Kharif,Pulse,Urad,2.248,110.4,Canal,3.138,Low,0.836,0.372
+0.6,133.5,224.4,16.9,72.3,1144.4,Sandy,Haryana,Rabi,Oilseed,Sesame,2.984,234.6,Tube well,2.647,Medium,1.683,0.564
+140.1,63.6,128.7,37.7,88.9,979.7,Sandy,Haryana,Rabi,Cash,Sugarcane,3.882,69.8,Tube well,0.056,Medium,130.435,33.6
+152.8,113.5,252.3,21.1,56.4,326.8,Clay,Maharashtra,Rabi,Vegetable,Onion,5.32,86.8,Canal,5.792,Low,107.969,20.295
+211.9,117.3,70.5,17.6,55.9,22.5,Chalky,Gujarat,Kharif,Pulse,Chana,8.794,324.3,Canal,3.221,High,11.643,1.324
+157.7,146.5,39.3,31.5,81.9,428.3,Silt,Odisha,Rabi,Fiber,Cotton,0.239,210.5,Drip,4.251,Medium,0.544,2.277
+102.0,75.6,220.9,37.2,59.9,148.2,Sandy,Rajasthan,Kharif,Vegetable,Onion,0.766,68.6,Rainfed,0.029,Medium,8.83,11.528
+167.4,25.5,75.9,11.9,36.8,515.2,Chalky,Gujarat,Rabi,Pulse,Chana,8.717,28.9,Drip,0.159,Medium,3.74,0.429
+205.2,91.7,147.0,17.3,21.7,780.2,Silt,Gujarat,Kharif,Cash,Sugarcane,6.299,0.1,Drip,0.546,Medium,253.025,40.169
+43.7,6.6,69.4,9.6,21.2,533.5,Sandy,Haryana,Summer,Oilseed,Soybean,0.34,4.3,Rainfed,0.069,High,0.173,0.508
+5.6,71.4,197.2,21.7,20.8,690.0,Peaty,Bihar,Summer,Oilseed,Soybean,7.361,301.6,Drip,3.503,High,18.564,2.522
+139.1,129.1,161.6,10.8,46.5,684.8,Chalky,Karnataka,Rabi,Pulse,Urad,7.133,162.6,Drip,0.656,Medium,3.695,0.518
+103.7,117.5,163.1,33.2,83.9,578.0,Peaty,Karnataka,Rabi,Fiber,Cotton,4.179,46.0,Drip,5.641,High,6.891,1.649
+217.4,9.9,211.6,11.0,75.3,717.7,Clay,Rajasthan,Rabi,Cash,Sugarcane,8.319,183.7,Canal,5.519,High,629.149,75.628
+161.8,78.6,12.6,30.2,70.6,350.2,Loam,Uttar Pradesh,Summer,Cereal,Wheat,3.992,364.9,Tube well,1.348,High,20.579,5.155
+90.9,5.6,10.6,30.7,89.3,1190.4,Sandy,Punjab,Summer,Cereal,Wheat,1.443,160.6,Tube well,2.964,Medium,2.691,1.865
+145.0,117.9,30.6,18.9,64.7,516.1,Sandy,Rajasthan,Kharif,Vegetable,Tomato,2.405,9.4,Tube well,2.663,Medium,35.026,14.564
+140.5,140.1,134.3,29.4,65.1,956.6,Clay,Bihar,Summer,Pulse,Urad,2.337,84.6,Canal,2.333,Medium,1.447,0.619
+118.8,39.9,103.0,18.3,59.3,943.0,Chalky,Rajasthan,Rabi,Pulse,Masoor,7.953,244.1,Rainfed,2.743,Low,5.042,0.634
+171.3,108.2,80.7,15.0,34.4,447.1,Sandy,Maharashtra,Rabi,Vegetable,Brinjal,0.193,96.6,Rainfed,2.08,High,1.355,7.021
+75.5,64.9,264.8,17.4,92.9,249.5,Peaty,Haryana,Rabi,Vegetable,Tomato,7.648,377.6,Tube well,1.614,Medium,184.63,24.141
+115.3,46.0,266.0,34.3,91.9,599.9,Clay,Rajasthan,Rabi,Cereal,Rice,7.599,341.2,Tube well,1.382,High,41.073,5.405
+243.2,60.5,70.1,38.5,92.4,448.4,Loam,Punjab,Rabi,Vegetable,Onion,9.192,284.0,Tube well,4.679,Low,166.807,18.147
+75.3,6.1,246.4,18.4,26.4,565.3,Chalky,Uttar Pradesh,Summer,Pulse,Masoor,9.917,111.3,Canal,0.912,Low,4.859,0.49
+38.2,24.0,150.8,23.2,51.8,1115.6,Clay,Karnataka,Rabi,Oilseed,Soybean,5.218,32.9,Drip,0.655,High,7.608,1.458
+3.7,33.3,247.8,18.1,53.9,710.7,Loam,Maharashtra,Rabi,Pulse,Urad,6.287,314.6,Canal,0.332,Low,2.546,0.405
+58.9,44.0,92.3,15.0,53.3,737.7,Chalky,Tamil Nadu,Kharif,Cereal,Maize,4.44,79.5,Tube well,0.795,Medium,15.66,3.527
+14.1,40.1,132.7,11.2,24.7,776.5,Peaty,Maharashtra,Rabi,Pulse,Moong,1.843,318.0,Canal,0.443,Medium,0.75,0.407
+159.4,56.2,58.9,19.2,46.1,11.4,Chalky,Bihar,Kharif,Oilseed,Sesame,4.287,323.4,Canal,1.575,Medium,3.404,0.794
+34.9,121.0,284.3,26.5,51.6,902.8,Clay,Haryana,Kharif,Vegetable,Onion,1.746,297.1,Canal,2.888,Medium,41.771,23.924
+147.3,62.6,100.5,25.1,72.2,581.5,Silt,Odisha,Kharif,Vegetable,Onion,6.614,35.8,Canal,4.817,Medium,125.315,18.947
+66.0,44.0,115.5,11.7,48.2,815.9,Chalky,Odisha,Kharif,Pulse,Chana,9.178,122.3,Drip,3.057,High,8.187,0.892
+35.9,119.3,193.4,32.9,57.3,479.1,Silt,Uttar Pradesh,Summer,Cereal,Maize,3.0,35.9,Canal,3.098,Low,11.31,3.77
+176.6,137.8,44.3,27.9,91.7,2.8,Peaty,Bihar,Summer,Pulse,Moong,4.092,237.1,Canal,5.286,Low,2.684,0.656
+246.7,50.8,13.1,20.0,89.7,683.6,Sandy,Tamil Nadu,Kharif,Cash,Sugarcane,2.994,322.6,Canal,3.36,Low,167.257,55.864
+216.4,123.8,140.9,34.9,38.3,512.1,Chalky,Rajasthan,Rabi,Vegetable,Potato,2.104,282.7,Drip,3.048,Medium,69.369,32.97
+202.2,144.9,121.8,24.3,91.3,793.9,Clay,Karnataka,Summer,Oilseed,Groundnut,2.393,350.9,Rainfed,5.471,Low,5.095,2.129
+193.5,50.7,246.8,14.7,57.7,443.4,Silt,Karnataka,Rabi,Cereal,Wheat,8.032,1.9,Tube well,5.902,Medium,21.421,2.667
+89.8,15.6,14.3,37.5,56.1,652.6,Sandy,Karnataka,Kharif,Oilseed,Sesame,9.991,399.7,Canal,5.266,High,6.854,0.686
+44.3,63.4,17.2,23.1,59.2,307.3,Peaty,Rajasthan,Summer,Pulse,Chana,3.059,44.2,Rainfed,1.243,High,2.19,0.716
+30.6,21.5,213.9,19.8,63.9,800.4,Silt,Punjab,Kharif,Cash,Sugarcane,2.812,20.5,Tube well,5.95,Medium,125.789,44.733
+150.0,31.2,200.3,35.3,36.8,211.8,Sandy,Bihar,Rabi,Pulse,Masoor,7.711,221.6,Tube well,0.295,Low,3.416,0.443
+192.9,97.1,85.1,31.5,81.7,934.6,Clay,Tamil Nadu,Summer,Pulse,Masoor,6.186,53.6,Tube well,0.773,High,4.547,0.735
+247.0,74.7,66.6,17.0,29.5,161.7,Sandy,Odisha,Rabi,Cash,Sugarcane,8.975,26.7,Canal,3.868,Medium,368.612,41.071
+126.1,107.2,168.3,15.0,53.0,378.4,Silt,Punjab,Rabi,Vegetable,Potato,8.854,69.9,Rainfed,1.63,Low,142.036,16.042
+109.9,62.3,187.0,16.9,50.3,323.1,Clay,Maharashtra,Summer,Cereal,Maize,6.504,216.9,Drip,3.932,High,45.06,6.928
+77.7,150.0,254.7,18.3,36.4,697.9,Silt,Tamil Nadu,Rabi,Vegetable,Tomato,0.098,315.3,Drip,4.506,Medium,2.723,27.782
+99.9,88.2,109.1,18.3,22.5,486.4,Clay,Punjab,Rabi,Oilseed,Groundnut,4.259,210.0,Tube well,0.143,High,8.705,2.044
+81.2,48.2,55.3,24.1,23.9,705.2,Loam,Punjab,Summer,Pulse,Urad,7.805,77.2,Tube well,2.221,Medium,3.567,0.457
+94.6,32.3,22.4,27.4,64.5,250.7,Silt,Haryana,Kharif,Oilseed,Sesame,1.902,241.4,Rainfed,0.9,Medium,1.318,0.693
+185.8,45.2,100.5,16.2,89.6,341.8,Loam,Uttar Pradesh,Rabi,Oilseed,Sesame,4.255,85.0,Tube well,3.084,High,3.391,0.797
+111.4,36.2,100.1,22.0,33.4,540.6,Chalky,Karnataka,Rabi,Cereal,Rice,6.312,284.9,Drip,0.561,Medium,27.886,4.418
+152.1,74.3,291.7,29.8,34.1,466.2,Peaty,Bihar,Kharif,Fiber,Cotton,1.428,81.4,Canal,5.467,Medium,2.508,1.756
+215.6,125.9,79.9,22.5,46.0,249.3,Chalky,Gujarat,Kharif,Oilseed,Mustard,5.386,104.4,Rainfed,1.173,Medium,5.138,0.954
+178.3,61.4,268.0,26.2,32.8,47.3,Clay,Rajasthan,Summer,Vegetable,Onion,1.261,348.0,Rainfed,4.256,Medium,22.677,17.983
+21.5,48.1,250.2,9.8,53.2,880.3,Silt,Rajasthan,Kharif,Pulse,Urad,8.966,4.2,Drip,1.0,Medium,2.116,0.236
+190.4,73.6,188.9,33.7,25.7,11.6,Peaty,Uttar Pradesh,Rabi,Cash,Sugarcane,5.48,362.0,Canal,5.794,High,431.353,78.714
+243.4,56.1,53.1,20.9,86.2,624.8,Peaty,Gujarat,Summer,Pulse,Moong,1.343,326.5,Rainfed,1.936,High,1.168,0.87
+190.0,6.6,20.2,35.1,21.3,574.3,Sandy,Uttar Pradesh,Kharif,Oilseed,Groundnut,7.532,360.3,Rainfed,5.347,Low,7.894,1.048
+167.3,51.0,27.6,21.8,76.6,1048.5,Loam,Uttar Pradesh,Summer,Vegetable,Onion,6.221,57.7,Canal,1.984,Medium,116.575,18.739
+87.7,49.4,0.1,27.0,67.0,832.3,Silt,Rajasthan,Kharif,Pulse,Urad,6.132,83.9,Tube well,2.462,High,3.428,0.559
+110.8,106.0,215.6,11.9,35.8,24.9,Clay,Uttar Pradesh,Rabi,Pulse,Chana,8.921,63.3,Rainfed,1.833,Medium,4.719,0.529
+143.7,26.2,125.8,24.3,90.4,119.5,Chalky,Uttar Pradesh,Rabi,Cereal,Maize,5.606,106.9,Drip,0.369,Low,22.065,3.936
+152.7,10.4,247.9,18.3,62.2,866.9,Chalky,Karnataka,Rabi,Oilseed,Sesame,9.769,63.3,Drip,0.098,High,6.711,0.687
+23.4,7.2,136.2,16.1,83.8,274.3,Clay,Uttar Pradesh,Summer,Cereal,Rice,2.724,272.3,Rainfed,1.356,Medium,7.055,2.59
+28.0,16.8,238.1,37.2,40.1,154.7,Clay,Uttar Pradesh,Rabi,Cereal,Barley,5.17,392.9,Canal,0.297,Low,7.047,1.363
+8.6,3.4,210.3,20.3,54.7,438.7,Chalky,Bihar,Rabi,Cash,Sugarcane,7.292,266.8,Rainfed,1.099,Medium,318.937,43.738
+125.7,115.6,61.0,34.5,65.5,1131.5,Sandy,Rajasthan,Kharif,Vegetable,Tomato,4.586,373.1,Canal,3.533,High,114.824,25.038
+48.6,143.2,68.9,34.4,73.1,465.7,Chalky,Tamil Nadu,Summer,Vegetable,Tomato,9.414,179.8,Rainfed,0.754,Low,125.865,13.37
+55.9,21.7,13.6,32.6,33.9,763.7,Peaty,Punjab,Rabi,Cereal,Barley,3.542,2.8,Drip,5.345,High,5.405,1.526
+113.2,14.7,162.5,29.8,91.6,322.9,Sandy,Odisha,Rabi,Cereal,Maize,5.488,173.1,Canal,4.915,Medium,26.09,4.754
+63.5,92.2,129.1,19.6,72.1,930.6,Sandy,Karnataka,Rabi,Vegetable,Tomato,1.281,255.8,Canal,1.588,Low,24.668,19.257
+248.5,51.0,264.3,23.1,91.2,451.8,Peaty,Bihar,Summer,Pulse,Masoor,5.021,29.3,Tube well,1.81,Medium,3.409,0.679
+149.6,90.7,14.2,39.1,34.7,1017.6,Peaty,Bihar,Rabi,Cereal,Maize,1.729,357.8,Rainfed,4.77,Low,5.273,3.05
+36.7,108.5,299.8,14.8,59.4,887.3,Chalky,Gujarat,Kharif,Pulse,Chana,7.325,23.6,Canal,3.495,Medium,4.534,0.619
+111.1,142.5,205.4,28.9,65.9,134.9,Sandy,Bihar,Summer,Vegetable,Onion,7.816,271.4,Rainfed,5.272,High,167.458,21.425
+221.2,133.8,254.9,31.9,25.4,293.6,Silt,Tamil Nadu,Kharif,Oilseed,Soybean,3.586,76.2,Drip,3.761,High,9.406,2.623
+127.2,16.1,69.5,13.3,47.2,332.1,Silt,Tamil Nadu,Rabi,Oilseed,Mustard,2.511,156.4,Drip,0.432,High,2.564,1.021
+199.9,7.1,295.8,23.9,93.5,364.0,Chalky,Maharashtra,Kharif,Pulse,Chana,1.133,83.2,Drip,5.976,Low,0.841,0.742
+87.3,9.3,6.3,12.5,72.2,919.7,Loam,Odisha,Rabi,Oilseed,Sesame,4.062,18.2,Tube well,3.403,Medium,1.706,0.42
+13.2,100.0,96.0,25.0,39.4,405.2,Loam,Tamil Nadu,Summer,Pulse,Masoor,2.878,256.2,Drip,0.099,Medium,2.311,0.803
+181.9,67.2,179.6,26.5,36.9,660.8,Sandy,Tamil Nadu,Kharif,Cash,Sugarcane,3.099,23.9,Canal,2.156,High,162.601,52.469
+201.1,36.7,137.6,13.3,33.4,993.8,Loam,Tamil Nadu,Rabi,Pulse,Urad,9.866,127.6,Rainfed,3.517,High,4.223,0.428
+216.6,60.0,248.5,24.1,24.3,89.5,Peaty,Punjab,Rabi,Cereal,Maize,4.536,163.9,Tube well,3.808,High,31.271,6.894
+173.9,119.1,252.8,10.4,26.7,355.7,Loam,Rajasthan,Rabi,Oilseed,Sesame,3.971,86.0,Canal,4.811,Medium,2.466,0.621
+92.1,82.5,30.9,37.0,58.1,1161.1,Loam,Odisha,Rabi,Cereal,Barley,1.528,260.9,Rainfed,3.078,Medium,3.42,2.238
+217.9,113.4,218.4,39.9,43.3,1057.1,Chalky,Tamil Nadu,Kharif,Fiber,Cotton,0.116,230.4,Tube well,1.899,High,0.189,1.63
+192.2,134.4,198.0,39.1,74.3,949.7,Chalky,Punjab,Summer,Fiber,Cotton,9.209,251.8,Rainfed,3.649,Medium,12.939,1.405
+70.0,98.1,255.2,26.4,80.1,255.2,Chalky,Karnataka,Summer,Pulse,Chana,1.323,227.6,Canal,1.78,High,1.601,1.21
+182.1,27.4,85.7,37.8,53.8,996.1,Clay,Haryana,Rabi,Vegetable,Potato,9.358,360.8,Tube well,1.986,Medium,237.899,25.422
+78.3,29.5,279.7,26.2,73.3,1151.2,Peaty,Maharashtra,Kharif,Oilseed,Groundnut,5.813,348.5,Tube well,1.635,Medium,14.265,2.454
+213.7,39.1,23.2,37.7,29.1,765.4,Clay,Haryana,Summer,Cereal,Barley,2.849,160.6,Drip,1.931,High,6.866,2.41
+142.4,12.7,281.3,21.6,34.8,116.4,Clay,Punjab,Summer,Oilseed,Sesame,0.765,131.4,Canal,5.06,High,0.578,0.756
+7.9,131.0,265.5,39.4,57.9,1146.4,Loam,Rajasthan,Kharif,Pulse,Urad,5.209,368.0,Drip,1.083,High,2.849,0.547
+204.6,65.0,70.4,39.0,48.2,1.2,Sandy,Bihar,Kharif,Cereal,Rice,9.414,163.4,Drip,1.111,High,35.952,3.819
+16.3,40.7,0.4,37.8,93.1,849.5,Peaty,Karnataka,Rabi,Pulse,Moong,6.558,98.1,Rainfed,1.006,Low,1.928,0.294
+1.7,0.2,22.1,24.9,71.6,593.7,Peaty,Tamil Nadu,Kharif,Oilseed,Groundnut,0.839,237.6,Canal,5.125,High,1.165,1.388
+95.6,149.5,249.1,32.1,76.0,514.0,Clay,Bihar,Rabi,Cereal,Barley,9.613,234.3,Tube well,4.622,Medium,35.424,3.685
+41.5,124.3,126.8,12.8,57.1,1047.8,Peaty,Haryana,Kharif,Pulse,Chana,2.336,15.3,Canal,5.502,Low,1.238,0.53
+58.4,148.7,199.7,34.6,82.5,426.0,Sandy,Bihar,Summer,Pulse,Chana,4.046,241.2,Canal,1.422,Medium,3.354,0.829
+97.0,27.4,205.9,27.9,33.9,158.4,Loam,Karnataka,Kharif,Pulse,Moong,5.606,373.9,Rainfed,3.141,Medium,3.778,0.674
+17.8,3.3,207.1,20.6,48.2,232.9,Sandy,Tamil Nadu,Kharif,Oilseed,Soybean,0.621,117.2,Tube well,2.329,High,0.961,1.548
+91.0,56.5,4.4,39.3,68.4,307.3,Clay,Odisha,Kharif,Oilseed,Groundnut,7.629,63.9,Drip,4.605,Medium,9.323,1.222
+64.1,39.8,24.0,13.0,57.5,522.8,Chalky,Maharashtra,Kharif,Pulse,Moong,2.229,150.1,Rainfed,3.35,Low,0.84,0.377
+39.5,148.5,88.9,35.8,68.8,273.1,Peaty,Gujarat,Rabi,Fiber,Cotton,9.914,12.6,Tube well,5.134,Low,9.874,0.996
+161.6,5.9,219.4,16.1,35.3,123.1,Sandy,Punjab,Summer,Cereal,Maize,1.362,98.4,Drip,4.457,Medium,4.644,3.41
+183.3,16.0,150.8,33.9,20.9,195.2,Chalky,Rajasthan,Rabi,Vegetable,Potato,5.584,19.8,Canal,2.564,Medium,78.142,13.994
+138.9,10.6,150.1,40.0,70.7,194.9,Sandy,Tamil Nadu,Kharif,Oilseed,Sesame,8.291,278.4,Tube well,2.312,Low,4.461,0.538
+103.3,126.2,87.7,22.7,63.5,1128.4,Silt,Punjab,Rabi,Cereal,Rice,4.032,95.4,Tube well,5.052,Medium,19.027,4.719
+146.2,63.6,214.3,35.0,72.8,419.6,Chalky,Gujarat,Summer,Vegetable,Potato,7.932,257.6,Canal,4.98,High,272.726,34.383
+32.5,74.8,97.6,39.2,67.9,552.7,Chalky,Karnataka,Kharif,Cereal,Barley,7.443,332.4,Drip,0.658,Low,15.742,2.115
+145.5,39.7,162.2,36.2,68.5,976.6,Silt,Uttar Pradesh,Kharif,Vegetable,Tomato,8.062,226.2,Drip,0.421,Medium,195.221,24.215
+127.9,20.8,214.3,20.9,76.1,628.4,Chalky,Uttar Pradesh,Rabi,Cereal,Maize,7.059,325.6,Rainfed,1.065,Low,34.236,4.85
+36.0,104.1,182.9,31.6,25.7,183.6,Sandy,Maharashtra,Rabi,Pulse,Chana,6.548,367.4,Rainfed,1.854,High,5.134,0.784
+175.5,138.8,78.2,39.9,57.8,955.6,Peaty,Uttar Pradesh,Kharif,Cereal,Rice,4.917,74.3,Rainfed,1.45,Medium,14.982,3.047
+180.9,124.5,167.4,8.5,82.6,821.2,Sandy,Punjab,Kharif,Vegetable,Onion,2.113,100.8,Rainfed,2.665,Medium,26.607,12.592
+136.4,110.6,109.3,22.1,82.3,1148.4,Sandy,Uttar Pradesh,Rabi,Cereal,Rice,3.488,12.5,Canal,4.131,Medium,10.227,2.932
+61.7,57.1,12.9,19.0,37.5,318.8,Silt,Karnataka,Rabi,Vegetable,Onion,2.476,131.7,Canal,1.138,Medium,37.499,15.145
+239.1,139.3,55.3,27.9,47.2,191.8,Clay,Bihar,Kharif,Fiber,Cotton,7.306,7.1,Rainfed,1.356,Medium,6.553,0.897
+201.5,138.9,211.7,39.0,89.8,758.6,Loam,Rajasthan,Summer,Oilseed,Soybean,4.894,190.1,Drip,5.697,High,14.79,3.022
+62.0,97.9,148.7,14.3,79.2,180.4,Loam,Odisha,Kharif,Pulse,Chana,3.649,318.6,Drip,3.693,Medium,3.853,1.056
+113.0,60.0,70.7,34.3,22.9,966.5,Clay,Haryana,Rabi,Vegetable,Onion,7.297,162.6,Rainfed,1.941,Medium,92.774,12.714
+66.7,107.6,15.6,24.4,36.2,567.7,Loam,Bihar,Summer,Fiber,Cotton,6.245,278.9,Rainfed,1.174,High,11.322,1.813
+151.4,83.9,131.2,20.2,64.3,1165.9,Chalky,Bihar,Rabi,Cereal,Wheat,5.321,93.4,Rainfed,5.758,Medium,13.015,2.446
+229.7,52.1,96.3,34.2,55.1,208.3,Clay,Odisha,Summer,Oilseed,Groundnut,0.221,115.2,Canal,5.879,Medium,0.432,1.954
+121.0,82.7,112.9,35.1,33.8,910.5,Peaty,Bihar,Rabi,Vegetable,Onion,9.006,298.1,Rainfed,3.175,Medium,154.039,17.104
+20.6,30.0,84.4,30.9,45.9,285.3,Chalky,Maharashtra,Rabi,Cereal,Maize,6.65,183.6,Rainfed,2.037,Low,18.334,2.757
+191.6,100.2,293.4,10.1,26.4,423.0,Chalky,Haryana,Kharif,Oilseed,Soybean,3.614,30.2,Canal,0.195,Medium,4.709,1.303
+195.4,136.4,243.5,35.8,50.3,547.9,Silt,Odisha,Summer,Vegetable,Onion,9.893,23.7,Drip,5.994,High,177.945,17.987
+213.6,79.6,94.2,34.7,71.3,336.0,Peaty,Rajasthan,Kharif,Pulse,Urad,3.549,226.4,Tube well,5.485,Medium,2.435,0.686
+147.7,48.3,161.2,16.9,47.0,896.7,Chalky,Punjab,Kharif,Cereal,Wheat,6.725,66.6,Tube well,4.199,Medium,17.465,2.597
+223.3,144.4,169.8,27.3,36.6,427.5,Peaty,Karnataka,Summer,Cereal,Maize,1.041,96.1,Canal,1.978,Medium,6.772,6.505
+184.0,95.6,64.3,37.1,58.8,495.2,Loam,Gujarat,Summer,Fiber,Cotton,8.348,356.7,Rainfed,4.022,Medium,15.327,1.836
+188.0,78.1,232.1,17.1,72.6,666.4,Loam,Punjab,Rabi,Pulse,Chana,7.136,284.2,Rainfed,3.13,High,9.791,1.372
+91.3,60.9,259.7,21.3,92.2,716.8,Loam,Haryana,Rabi,Cereal,Rice,2.018,22.4,Tube well,1.974,Low,6.387,3.165
+140.9,82.2,183.8,10.5,46.8,744.9,Chalky,Karnataka,Kharif,Pulse,Moong,6.733,190.0,Canal,4.988,Medium,4.262,0.633
+203.4,74.4,259.8,20.1,41.6,781.4,Chalky,Tamil Nadu,Summer,Vegetable,Tomato,1.524,293.8,Canal,4.431,Medium,43.617,28.62
+74.8,122.3,176.9,20.9,49.2,664.2,Clay,Karnataka,Kharif,Vegetable,Brinjal,9.976,217.8,Drip,5.882,Medium,146.378,14.673
+160.2,134.5,170.4,34.9,91.5,668.6,Clay,Karnataka,Kharif,Fiber,Cotton,0.787,129.3,Canal,3.731,High,1.484,1.886
+234.6,117.8,154.9,8.4,47.2,688.6,Peaty,Odisha,Rabi,Cereal,Wheat,4.864,30.9,Rainfed,1.302,High,9.47,1.947
+204.2,49.0,119.6,24.4,73.8,1123.6,Peaty,Uttar Pradesh,Kharif,Pulse,Masoor,9.481,326.5,Canal,0.986,Low,9.064,0.956
+179.9,91.5,167.4,17.5,81.1,215.6,Sandy,Uttar Pradesh,Rabi,Pulse,Masoor,6.549,139.4,Rainfed,3.84,Low,3.235,0.494
+55.2,139.0,285.3,27.8,42.1,693.2,Chalky,Karnataka,Rabi,Pulse,Moong,3.334,127.3,Canal,0.615,Medium,1.944,0.583
+120.6,140.3,263.0,10.1,42.1,1192.5,Chalky,Punjab,Rabi,Oilseed,Soybean,6.465,198.5,Rainfed,1.896,Medium,10.596,1.639
+120.2,136.4,143.0,21.9,29.3,1144.6,Clay,Maharashtra,Rabi,Cash,Sugarcane,7.338,92.2,Tube well,5.25,Low,363.407,49.524
+165.9,46.5,51.0,33.5,42.8,940.6,Loam,Karnataka,Rabi,Vegetable,Tomato,4.866,70.7,Rainfed,5.857,Medium,78.815,16.197
+82.4,97.2,125.5,14.6,41.1,356.2,Silt,Maharashtra,Summer,Cereal,Barley,3.187,73.2,Drip,2.805,Medium,7.117,2.233
+128.8,83.3,209.9,26.9,56.8,944.7,Clay,Gujarat,Rabi,Cereal,Rice,9.857,363.0,Drip,0.102,High,63.755,6.468
+13.2,70.5,37.9,21.4,78.9,1186.7,Chalky,Uttar Pradesh,Summer,Cash,Sugarcane,4.754,226.8,Rainfed,4.972,Medium,197.4,41.523
+18.7,148.8,100.6,22.8,44.5,1021.0,Peaty,Uttar Pradesh,Kharif,Oilseed,Soybean,1.904,393.1,Drip,2.38,Medium,5.287,2.777
+52.4,52.0,247.1,20.1,94.2,288.3,Peaty,Rajasthan,Rabi,Vegetable,Brinjal,7.42,177.3,Canal,0.306,Low,60.532,8.158
+183.1,34.5,138.0,17.2,50.8,562.5,Peaty,Odisha,Kharif,Pulse,Chana,3.225,34.5,Canal,1.176,High,3.044,0.944
+80.6,83.9,144.8,12.2,55.9,813.8,Loam,Karnataka,Rabi,Oilseed,Sesame,1.998,374.4,Drip,1.281,Medium,1.768,0.885
+13.5,12.7,111.4,16.9,83.0,89.2,Peaty,Bihar,Kharif,Oilseed,Mustard,5.983,156.4,Drip,1.482,High,5.121,0.856
+152.5,110.2,200.0,39.7,77.8,1137.7,Chalky,Rajasthan,Rabi,Cash,Sugarcane,2.476,38.7,Rainfed,5.862,High,105.876,42.761
+145.2,0.3,85.9,38.3,81.2,413.0,Sandy,Haryana,Rabi,Cereal,Maize,4.302,230.0,Rainfed,4.246,Low,12.807,2.977
+221.6,26.4,17.4,9.4,94.9,616.5,Chalky,Odisha,Kharif,Oilseed,Mustard,6.208,184.2,Canal,4.851,High,5.569,0.897
+178.6,147.6,272.2,12.0,85.1,743.1,Clay,Punjab,Kharif,Fiber,Cotton,6.287,68.7,Canal,1.963,High,10.814,1.72
+28.8,21.2,35.3,35.0,28.6,264.0,Silt,Karnataka,Rabi,Vegetable,Potato,2.884,321.0,Tube well,4.352,High,56.979,19.757
+189.0,5.4,214.3,13.6,83.8,345.7,Chalky,Punjab,Summer,Fiber,Cotton,5.555,17.3,Rainfed,4.62,Medium,4.5,0.81
+149.9,34.7,149.0,20.7,47.5,423.1,Sandy,Tamil Nadu,Kharif,Vegetable,Potato,2.84,234.9,Rainfed,0.674,High,78.205,27.537
+95.4,38.4,228.2,10.9,67.5,879.2,Chalky,Maharashtra,Rabi,Pulse,Urad,6.82,99.1,Tube well,1.52,Medium,2.653,0.389
+197.0,14.0,218.2,10.2,43.6,970.6,Loam,Rajasthan,Rabi,Pulse,Moong,4.487,297.2,Canal,0.541,High,3.033,0.676
+218.6,41.6,188.5,27.6,68.2,897.8,Peaty,Maharashtra,Summer,Vegetable,Brinjal,1.259,231.0,Tube well,0.778,High,21.584,17.144
+81.9,73.3,22.6,34.2,28.4,1057.6,Loam,Gujarat,Rabi,Cereal,Wheat,2.469,55.3,Canal,5.755,Medium,4.286,1.736
+174.0,63.3,84.8,13.3,89.9,23.1,Loam,Karnataka,Kharif,Pulse,Urad,8.275,56.9,Tube well,1.226,Medium,2.615,0.316
+139.3,12.1,128.4,26.5,41.4,286.1,Clay,Maharashtra,Rabi,Cereal,Wheat,5.094,369.7,Drip,1.219,Medium,18.165,3.566
+21.3,48.1,7.0,30.8,28.6,858.5,Loam,Haryana,Summer,Fiber,Cotton,1.02,346.0,Rainfed,4.841,Medium,1.09,1.069
+190.9,102.6,290.2,39.0,81.1,734.1,Peaty,Gujarat,Kharif,Pulse,Chana,3.047,242.7,Drip,4.636,Medium,3.784,1.242
+206.8,64.0,63.1,39.9,77.5,1150.2,Chalky,Odisha,Rabi,Cereal,Barley,5.409,383.8,Canal,5.027,Medium,13.766,2.545
+181.8,43.9,297.7,18.9,66.0,372.8,Clay,Haryana,Rabi,Vegetable,Onion,7.092,104.7,Drip,0.094,Low,127.535,17.983
+166.1,20.2,64.2,16.0,71.8,344.6,Clay,Tamil Nadu,Rabi,Pulse,Urad,4.018,70.3,Rainfed,4.871,Low,1.266,0.315
+143.0,55.5,210.3,27.8,83.1,1164.8,Chalky,Bihar,Rabi,Vegetable,Onion,7.292,394.5,Drip,3.104,Medium,173.469,23.789
+121.0,116.6,148.7,13.6,52.1,872.8,Chalky,Rajasthan,Rabi,Oilseed,Soybean,5.611,300.2,Drip,3.001,Low,13.102,2.335
+179.6,61.7,86.3,18.3,57.6,780.5,Chalky,Gujarat,Summer,Vegetable,Tomato,8.058,28.7,Rainfed,4.42,Medium,114.15,14.166
+31.5,73.5,218.3,26.6,26.5,655.7,Peaty,Tamil Nadu,Kharif,Cash,Sugarcane,7.301,187.1,Canal,3.013,High,566.514,77.594
+1.1,111.9,168.4,9.4,94.2,216.1,Loam,Gujarat,Kharif,Oilseed,Sesame,4.708,221.6,Rainfed,3.056,Medium,1.954,0.415
+60.2,21.4,198.2,22.1,63.9,983.7,Chalky,Bihar,Rabi,Cereal,Maize,6.695,141.4,Tube well,5.065,High,39.922,5.963
+1.5,132.7,162.3,17.7,23.8,666.7,Clay,Maharashtra,Kharif,Fiber,Cotton,8.621,340.9,Tube well,1.031,Medium,11.862,1.376
+112.3,131.6,24.1,11.0,21.6,445.6,Peaty,Punjab,Rabi,Oilseed,Sesame,9.957,371.8,Canal,2.396,Medium,6.631,0.666
+140.4,61.6,291.3,11.5,63.6,238.8,Chalky,Odisha,Kharif,Vegetable,Onion,0.192,155.2,Rainfed,4.761,High,3.24,16.873
+146.6,107.3,184.3,19.0,60.2,45.2,Chalky,Gujarat,Summer,Vegetable,Onion,1.717,13.0,Tube well,4.441,Medium,21.918,12.765
+199.5,73.9,230.8,11.9,54.3,1172.0,Peaty,Rajasthan,Summer,Pulse,Moong,8.476,325.1,Drip,4.999,Medium,7.154,0.844
+221.8,12.8,58.3,29.5,80.7,788.9,Sandy,Gujarat,Rabi,Vegetable,Potato,2.719,7.0,Tube well,5.801,Medium,40.809,15.009
+226.0,18.7,182.1,12.2,27.0,933.8,Chalky,Odisha,Kharif,Pulse,Urad,2.424,330.9,Tube well,0.699,Medium,0.972,0.401
+2.5,7.1,203.1,15.2,42.6,922.1,Sandy,Haryana,Kharif,Vegetable,Potato,4.34,202.6,Tube well,0.194,Medium,50.596,11.658
+115.1,5.9,133.3,21.0,62.8,184.8,Chalky,Maharashtra,Kharif,Fiber,Cotton,9.259,186.3,Tube well,0.334,Medium,12.685,1.37
+91.4,145.2,99.7,33.9,54.8,1175.4,Loam,Haryana,Kharif,Vegetable,Tomato,1.863,146.4,Tube well,0.603,Medium,42.13,22.614
+19.0,22.6,204.0,25.6,39.1,1068.4,Peaty,Gujarat,Kharif,Oilseed,Groundnut,2.751,312.8,Drip,1.199,Low,4.182,1.52
+74.0,22.1,288.9,29.3,81.8,812.9,Silt,Karnataka,Kharif,Oilseed,Groundnut,8.376,312.4,Rainfed,1.106,Medium,15.646,1.868
+41.0,111.8,186.6,20.4,67.3,780.2,Silt,Tamil Nadu,Summer,Vegetable,Potato,7.877,369.3,Drip,4.409,Medium,289.346,36.733
+212.0,90.7,186.7,18.7,77.0,541.9,Peaty,Odisha,Kharif,Pulse,Urad,6.35,336.8,Tube well,1.297,Low,4.407,0.694
+224.7,129.1,97.5,31.2,58.8,781.0,Sandy,Tamil Nadu,Summer,Pulse,Moong,7.551,270.6,Tube well,2.066,Medium,5.988,0.793
+217.5,110.1,60.8,20.1,80.7,652.5,Chalky,Uttar Pradesh,Summer,Oilseed,Groundnut,2.801,72.6,Tube well,4.251,High,6.073,2.168
+5.6,104.4,264.1,28.3,33.2,242.6,Loam,Bihar,Kharif,Oilseed,Mustard,6.623,0.7,Rainfed,2.62,Low,2.563,0.387
+205.3,94.3,16.7,26.6,63.5,635.0,Sandy,Gujarat,Rabi,Cereal,Maize,5.77,179.5,Rainfed,0.623,Low,26.323,4.562
+235.2,22.9,203.4,39.3,45.0,929.3,Silt,Odisha,Rabi,Vegetable,Onion,8.174,233.5,Canal,4.23,High,182.689,22.35
+210.9,108.2,175.9,16.3,54.9,129.8,Clay,Tamil Nadu,Rabi,Cash,Sugarcane,0.244,126.2,Drip,5.026,Medium,18.625,76.331
+161.2,94.1,209.3,8.6,85.7,717.4,Chalky,Bihar,Summer,Pulse,Chana,0.391,299.0,Drip,5.806,High,0.421,1.076
+241.6,84.4,256.4,24.7,93.2,994.1,Sandy,Maharashtra,Rabi,Cash,Sugarcane,5.289,161.2,Tube well,5.465,Low,330.102,62.413
+170.0,112.1,237.1,15.9,35.5,358.3,Peaty,Maharashtra,Kharif,Cash,Sugarcane,8.242,284.0,Tube well,2.527,High,735.681,89.26
+224.3,18.8,141.3,38.9,93.7,433.5,Sandy,Rajasthan,Kharif,Oilseed,Sesame,5.569,296.7,Drip,3.238,Medium,3.631,0.652
+123.3,111.3,115.8,31.1,73.9,871.6,Loam,Rajasthan,Kharif,Fiber,Cotton,3.637,94.5,Rainfed,4.95,High,6.336,1.742
+181.6,131.2,118.5,16.8,28.2,377.2,Silt,Odisha,Kharif,Oilseed,Sesame,6.951,271.9,Rainfed,2.153,High,5.853,0.842
+82.5,27.2,146.2,27.0,62.3,245.2,Loam,Haryana,Kharif,Cash,Sugarcane,6.234,375.4,Tube well,2.83,Medium,539.129,86.482
+167.4,104.9,215.8,12.9,76.3,192.8,Clay,Punjab,Summer,Vegetable,Onion,0.379,140.5,Tube well,4.456,Medium,7.55,19.92
+198.7,133.8,234.2,35.7,63.5,792.8,Silt,Rajasthan,Kharif,Vegetable,Brinjal,2.566,154.3,Tube well,0.998,Medium,34.59,13.48
+7.6,18.7,116.7,18.6,45.3,328.2,Sandy,Uttar Pradesh,Summer,Cereal,Wheat,1.457,25.8,Rainfed,1.793,Medium,1.853,1.272
+60.7,107.4,120.9,37.5,43.5,589.2,Loam,Bihar,Summer,Oilseed,Groundnut,7.853,368.1,Canal,5.727,Medium,16.986,2.163
+91.2,97.6,291.8,20.3,35.8,1012.4,Sandy,Rajasthan,Kharif,Cereal,Wheat,4.521,327.8,Tube well,0.363,Medium,12.74,2.818
+126.8,33.1,258.0,9.2,65.1,1015.9,Loam,Punjab,Summer,Cereal,Maize,0.487,197.1,Rainfed,4.571,Medium,2.208,4.533
+176.2,44.1,69.1,18.3,33.7,1164.0,Sandy,Tamil Nadu,Kharif,Cereal,Maize,7.711,131.8,Rainfed,3.953,Low,26.233,3.402
+14.7,145.8,136.5,32.7,75.3,762.5,Silt,Bihar,Rabi,Cereal,Rice,7.403,147.1,Canal,2.157,Medium,30.959,4.182
+29.7,57.1,281.5,27.9,72.7,872.3,Loam,Tamil Nadu,Kharif,Oilseed,Sesame,4.063,41.9,Rainfed,3.129,High,2.442,0.601
+99.8,144.5,29.8,33.3,49.2,1045.7,Loam,Odisha,Rabi,Vegetable,Brinjal,0.058,21.5,Rainfed,0.905,Medium,0.365,6.285
+83.4,47.0,286.3,29.6,81.3,883.0,Clay,Karnataka,Kharif,Oilseed,Sesame,0.554,357.4,Rainfed,4.709,Low,0.332,0.599
+37.8,13.3,291.2,27.9,75.0,795.8,Clay,Bihar,Rabi,Pulse,Moong,2.636,341.0,Drip,3.502,Medium,1.916,0.727
+197.5,121.4,25.9,16.3,51.7,293.7,Silt,Bihar,Summer,Cash,Sugarcane,9.422,385.3,Canal,5.785,High,866.692,91.986
+59.7,131.4,75.8,27.9,75.3,599.6,Silt,Bihar,Summer,Oilseed,Groundnut,0.213,262.1,Rainfed,3.178,Medium,0.477,2.239
+91.0,32.1,6.1,38.0,82.0,959.0,Peaty,Uttar Pradesh,Rabi,Vegetable,Tomato,4.225,248.3,Drip,4.968,High,80.93,19.155
+163.9,64.2,267.0,31.8,22.0,313.8,Silt,Odisha,Summer,Pulse,Urad,1.133,178.5,Drip,0.898,Medium,0.68,0.6
+158.1,50.0,39.8,12.9,74.8,190.4,Chalky,Odisha,Summer,Vegetable,Onion,5.863,158.4,Canal,0.873,Medium,105.528,17.999
+5.8,135.8,86.2,22.9,41.9,599.8,Clay,Rajasthan,Rabi,Oilseed,Mustard,8.312,108.7,Canal,2.562,Low,6.433,0.774
+168.4,43.3,278.3,34.1,38.3,1039.1,Clay,Haryana,Summer,Cereal,Barley,1.847,326.2,Drip,4.524,Medium,5.596,3.03
+249.3,103.4,115.4,10.8,74.7,942.4,Sandy,Odisha,Kharif,Cereal,Wheat,3.832,6.5,Rainfed,4.376,Medium,6.02,1.571
+21.1,98.6,116.0,11.6,82.7,161.5,Sandy,Tamil Nadu,Kharif,Pulse,Chana,3.192,179.1,Tube well,4.93,High,2.48,0.777
+167.8,47.6,96.2,11.2,29.2,302.5,Loam,Karnataka,Summer,Pulse,Masoor,3.339,102.6,Tube well,0.076,Medium,1.803,0.54
+158.0,57.8,274.8,17.7,36.9,1114.9,Clay,Maharashtra,Rabi,Pulse,Chana,7.261,236.9,Rainfed,2.272,Medium,6.15,0.847
+41.0,53.1,295.9,24.2,34.2,1056.7,Clay,Karnataka,Kharif,Vegetable,Brinjal,1.116,149.2,Canal,4.839,Low,9.622,8.622
+209.7,51.1,258.9,27.5,59.2,1032.9,Peaty,Punjab,Summer,Pulse,Moong,5.222,303.4,Canal,5.269,Medium,5.248,1.005
+110.6,54.5,71.6,18.9,66.2,297.7,Sandy,Haryana,Summer,Pulse,Moong,1.182,87.2,Canal,4.753,Low,0.559,0.473
+89.8,44.6,193.5,13.0,47.2,739.4,Silt,Karnataka,Kharif,Pulse,Masoor,8.634,121.1,Tube well,3.07,High,6.691,0.775
+240.7,106.6,134.1,17.0,52.2,546.0,Peaty,Maharashtra,Rabi,Vegetable,Tomato,5.743,138.5,Tube well,5.248,Medium,158.748,27.642
+111.6,69.9,250.6,12.6,25.9,818.8,Chalky,Rajasthan,Rabi,Cereal,Rice,5.907,248.4,Canal,4.073,Medium,23.25,3.936
+98.2,17.3,250.2,28.6,32.3,962.1,Peaty,Gujarat,Summer,Cereal,Maize,8.243,237.5,Drip,4.739,High,53.324,6.469
+5.6,130.3,166.9,25.5,50.3,388.9,Clay,Bihar,Summer,Cash,Sugarcane,3.086,362.4,Canal,2.964,High,238.273,77.211
+195.3,76.2,261.2,13.1,91.7,55.3,Loam,Haryana,Rabi,Pulse,Masoor,9.026,11.5,Rainfed,5.082,Medium,3.926,0.435
+247.5,34.1,84.6,23.5,67.4,146.4,Silt,Tamil Nadu,Rabi,Fiber,Cotton,1.523,159.8,Tube well,0.944,High,3.555,2.334
+165.4,141.3,183.4,26.3,75.2,1017.4,Chalky,Haryana,Rabi,Oilseed,Groundnut,7.967,0.1,Canal,0.81,High,12.652,1.588
+93.8,14.6,286.9,16.7,60.4,847.8,Chalky,Uttar Pradesh,Summer,Pulse,Chana,3.779,241.8,Rainfed,0.522,Medium,2.774,0.734
+4.9,38.8,112.1,13.8,54.1,1119.6,Sandy,Uttar Pradesh,Rabi,Oilseed,Groundnut,1.017,125.9,Rainfed,3.108,Low,0.697,0.685
+125.8,51.5,261.5,35.0,32.7,964.5,Peaty,Odisha,Rabi,Oilseed,Mustard,5.832,16.1,Canal,1.818,Medium,3.966,0.68
+157.7,63.8,181.2,17.8,51.4,454.2,Clay,Odisha,Rabi,Vegetable,Onion,6.961,248.7,Drip,1.904,Medium,177.123,25.445
+96.1,108.6,163.1,21.3,36.1,638.9,Clay,Haryana,Kharif,Oilseed,Groundnut,8.178,343.2,Rainfed,0.586,Medium,15.146,1.852
+243.6,138.5,167.0,39.9,72.7,639.6,Silt,Rajasthan,Kharif,Pulse,Chana,0.737,340.8,Tube well,2.326,High,1.091,1.481
+23.4,63.5,265.1,22.3,48.4,118.3,Silt,Bihar,Summer,Pulse,Masoor,0.136,322.8,Tube well,0.602,High,0.119,0.878
+131.1,37.5,208.7,20.1,39.2,602.1,Clay,Gujarat,Summer,Cereal,Wheat,1.682,175.3,Tube well,5.118,Medium,5.783,3.438
+80.5,64.1,116.6,18.6,21.3,149.9,Chalky,Uttar Pradesh,Rabi,Vegetable,Tomato,3.748,6.5,Rainfed,0.725,Low,26.69,7.121
+117.0,54.4,91.0,15.2,94.9,388.6,Clay,Tamil Nadu,Kharif,Oilseed,Mustard,5.127,243.7,Tube well,3.081,Medium,5.317,1.037
+11.4,111.4,281.1,28.5,27.6,1153.8,Peaty,Uttar Pradesh,Rabi,Vegetable,Potato,0.084,368.1,Tube well,4.674,High,2.278,27.121
+240.6,26.8,200.7,31.7,34.2,235.0,Silt,Karnataka,Kharif,Fiber,Cotton,2.441,125.9,Rainfed,3.382,Medium,3.33,1.364
+105.5,123.5,244.4,14.4,40.2,333.6,Chalky,Gujarat,Kharif,Pulse,Masoor,3.122,6.0,Drip,0.655,High,1.405,0.45
+14.4,146.6,52.4,26.2,76.9,242.6,Peaty,Haryana,Summer,Vegetable,Potato,3.219,157.9,Canal,2.335,Medium,84.673,26.304
+246.6,64.7,260.2,31.3,94.7,689.2,Silt,Uttar Pradesh,Rabi,Oilseed,Groundnut,4.814,397.5,Drip,5.414,Medium,13.47,2.798
+245.9,118.1,243.0,26.6,23.4,1036.2,Clay,Karnataka,Summer,Cereal,Barley,1.003,238.7,Tube well,2.023,High,3.506,3.496
+133.1,130.3,246.9,38.1,69.2,927.9,Loam,Maharashtra,Summer,Cash,Sugarcane,7.66,293.7,Canal,3.286,Medium,613.735,80.122
+173.6,31.2,2.0,26.1,50.5,982.4,Peaty,Haryana,Summer,Cereal,Wheat,3.98,247.8,Canal,3.807,Medium,15.021,3.774
+9.0,54.1,190.8,11.9,92.7,189.4,Sandy,Bihar,Rabi,Pulse,Moong,2.987,155.6,Rainfed,1.105,Medium,0.741,0.248
+52.5,78.4,145.4,39.0,91.0,919.1,Peaty,Odisha,Rabi,Oilseed,Mustard,0.565,129.3,Drip,5.769,High,0.586,1.038
+30.9,30.0,79.2,31.7,62.0,157.3,Peaty,Maharashtra,Kharif,Cereal,Maize,4.705,264.0,Canal,4.235,Medium,25.252,5.367
+156.4,11.6,286.3,33.1,73.5,427.6,Loam,Uttar Pradesh,Kharif,Cereal,Wheat,9.244,228.1,Tube well,3.472,High,41.071,4.443
+221.4,110.3,270.8,25.3,32.0,149.8,Chalky,Rajasthan,Rabi,Oilseed,Mustard,3.811,314.7,Tube well,1.429,Medium,5.019,1.317
+69.2,5.5,120.4,17.9,51.8,1158.6,Clay,Haryana,Rabi,Pulse,Moong,8.188,239.3,Canal,1.386,High,4.774,0.583
+191.2,58.0,246.5,39.2,91.3,352.3,Chalky,Uttar Pradesh,Summer,Pulse,Urad,3.905,103.8,Tube well,1.741,High,1.902,0.487
+15.9,146.6,157.0,33.2,83.5,330.5,Chalky,Uttar Pradesh,Kharif,Cereal,Wheat,9.104,30.2,Tube well,5.294,Medium,15.368,1.688
+107.8,50.5,247.4,12.6,25.5,1121.6,Clay,Gujarat,Kharif,Vegetable,Potato,3.037,137.0,Rainfed,4.388,Low,37.847,12.462
+25.4,5.0,182.7,19.5,72.7,1000.8,Sandy,Tamil Nadu,Summer,Fiber,Cotton,2.736,224.8,Rainfed,5.657,High,2.728,0.997
+113.5,115.0,257.4,36.8,81.6,552.7,Clay,Bihar,Summer,Vegetable,Onion,8.064,46.0,Canal,5.639,Medium,122.484,15.189
+194.6,0.7,45.5,27.1,50.4,331.4,Silt,Tamil Nadu,Summer,Cereal,Barley,5.187,292.4,Drip,3.873,Low,14.233,2.744
+61.0,25.6,218.5,11.8,55.2,359.8,Silt,Gujarat,Rabi,Vegetable,Brinjal,7.546,292.5,Drip,4.673,Medium,85.24,11.296
+145.7,0.6,81.8,11.7,30.8,251.5,Sandy,Odisha,Rabi,Vegetable,Onion,9.332,73.8,Rainfed,4.827,Medium,78.613,8.424
+29.5,26.8,91.3,12.1,27.1,704.0,Peaty,Karnataka,Kharif,Vegetable,Potato,1.821,355.1,Tube well,3.498,High,40.883,22.451
+84.5,145.3,113.5,9.2,90.7,143.0,Loam,Punjab,Kharif,Fiber,Cotton,3.535,320.6,Rainfed,0.76,Medium,4.09,1.157
+180.9,35.0,29.4,25.3,67.5,152.2,Peaty,Gujarat,Rabi,Cash,Sugarcane,2.871,264.0,Tube well,0.554,Low,204.036,71.068
+191.5,62.5,216.0,29.7,91.5,205.4,Sandy,Punjab,Summer,Fiber,Cotton,3.499,76.9,Canal,1.7,High,5.402,1.544
+240.7,95.7,294.1,22.4,53.9,103.2,Clay,Gujarat,Rabi,Oilseed,Soybean,1.224,148.7,Rainfed,2.023,High,3.455,2.823
+65.7,81.5,114.3,23.8,29.5,826.8,Sandy,Maharashtra,Rabi,Vegetable,Potato,2.566,138.4,Drip,3.695,Medium,65.867,25.669
+190.6,23.9,2.0,10.5,66.2,49.5,Peaty,Uttar Pradesh,Kharif,Pulse,Urad,4.393,184.7,Drip,1.737,Medium,2.254,0.513
+217.8,15.0,116.7,18.9,48.1,143.1,Sandy,Punjab,Kharif,Pulse,Masoor,1.237,290.8,Drip,1.35,Medium,0.91,0.736
+102.0,63.7,7.7,29.6,42.0,791.9,Sandy,Uttar Pradesh,Summer,Pulse,Masoor,8.906,103.0,Drip,1.491,Medium,5.406,0.607
+140.5,66.0,176.0,21.1,85.6,1048.3,Peaty,Punjab,Kharif,Oilseed,Groundnut,8.355,356.3,Tube well,0.499,Low,17.036,2.039
+118.6,14.4,217.0,15.3,64.9,294.2,Clay,Karnataka,Kharif,Cash,Sugarcane,5.14,138.0,Drip,2.688,High,389.062,75.693
+161.9,33.8,91.5,23.6,35.7,1090.6,Loam,Haryana,Rabi,Pulse,Moong,0.643,391.4,Tube well,1.564,Medium,0.493,0.766
+123.5,66.0,53.6,12.5,48.6,260.3,Chalky,Karnataka,Summer,Vegetable,Brinjal,2.0,46.3,Rainfed,0.89,High,11.708,5.854
+136.5,142.9,11.7,21.2,62.4,937.0,Sandy,Karnataka,Rabi,Vegetable,Brinjal,8.184,251.1,Canal,4.778,High,118.57,14.488
+183.2,13.4,262.4,26.6,50.6,926.0,Sandy,Odisha,Summer,Vegetable,Potato,6.99,325.5,Tube well,3.823,High,237.569,33.987
+156.8,124.5,151.2,14.2,75.1,549.2,Loam,Punjab,Summer,Cereal,Barley,8.271,235.9,Tube well,2.104,Medium,32.034,3.873
+63.4,129.4,19.9,36.0,50.1,43.4,Chalky,Bihar,Kharif,Vegetable,Tomato,0.499,243.3,Canal,2.634,High,10.63,21.303
+126.3,81.9,101.6,19.8,94.3,705.1,Chalky,Uttar Pradesh,Kharif,Cash,Sugarcane,3.045,258.0,Canal,1.693,High,245.284,80.553
+29.9,111.8,131.1,9.8,94.6,343.4,Silt,Maharashtra,Rabi,Pulse,Chana,2.525,303.6,Rainfed,5.944,Medium,1.629,0.645
+2.5,118.7,118.2,11.1,85.2,794.8,Loam,Odisha,Summer,Cereal,Wheat,6.699,198.5,Drip,1.445,High,19.682,2.938
+101.4,121.0,259.2,32.8,83.9,607.0,Loam,Bihar,Rabi,Oilseed,Soybean,1.772,324.3,Drip,3.512,Low,5.176,2.921
+13.5,44.6,125.3,39.7,83.6,368.1,Peaty,Karnataka,Rabi,Vegetable,Tomato,0.706,233.4,Drip,5.796,Low,9.784,13.859
+98.4,104.8,83.7,9.8,26.5,509.0,Peaty,Bihar,Summer,Pulse,Moong,7.642,291.8,Canal,4.263,High,4.899,0.641
+65.2,3.9,127.3,15.9,91.6,579.8,Silt,Gujarat,Rabi,Pulse,Masoor,5.881,144.6,Tube well,5.473,Medium,3.358,0.571
+42.9,55.1,111.4,32.9,27.4,266.7,Sandy,Punjab,Rabi,Pulse,Masoor,3.98,20.8,Canal,2.1,Low,1.437,0.361
+78.2,141.8,23.1,14.9,62.6,601.0,Sandy,Tamil Nadu,Kharif,Oilseed,Soybean,4.388,182.2,Tube well,2.162,High,10.97,2.5
+162.1,109.7,296.7,33.8,70.7,1155.1,Clay,Uttar Pradesh,Kharif,Cereal,Wheat,4.509,37.1,Canal,3.648,Medium,11.692,2.593
+225.8,29.0,138.2,30.7,37.8,902.7,Peaty,Odisha,Summer,Cereal,Maize,4.028,214.0,Canal,1.997,Medium,25.227,6.263
+232.7,122.4,59.2,22.9,42.3,990.0,Clay,Maharashtra,Kharif,Vegetable,Onion,2.237,19.1,Tube well,3.381,Medium,35.727,15.971
+164.1,83.1,140.8,11.0,72.6,13.9,Loam,Uttar Pradesh,Rabi,Cereal,Barley,8.733,137.0,Rainfed,5.96,High,22.749,2.605
+111.9,106.8,160.0,16.7,35.3,687.1,Silt,Bihar,Summer,Pulse,Chana,0.679,299.8,Rainfed,4.952,Medium,0.724,1.067
+230.5,112.5,119.9,17.9,73.0,365.3,Loam,Punjab,Summer,Oilseed,Sesame,4.357,395.9,Canal,3.964,Medium,5.211,1.196
+93.7,9.0,103.2,39.2,54.6,852.4,Chalky,Tamil Nadu,Kharif,Cereal,Barley,4.398,104.5,Drip,0.338,Low,5.937,1.35
+64.2,35.0,211.1,37.7,86.8,669.2,Peaty,Odisha,Summer,Vegetable,Brinjal,2.532,53.4,Tube well,3.689,Medium,20.066,7.925
+87.3,114.6,201.6,9.3,54.3,945.5,Silt,Uttar Pradesh,Kharif,Vegetable,Potato,7.913,267.8,Rainfed,0.924,Low,151.463,19.141
+48.4,7.9,93.5,34.6,76.5,195.1,Sandy,Gujarat,Summer,Cereal,Rice,4.45,99.2,Canal,2.9,Medium,11.183,2.513
+211.6,52.6,166.1,24.4,55.0,1143.5,Loam,Haryana,Kharif,Vegetable,Tomato,2.405,10.5,Tube well,0.121,Medium,36.537,15.192
+84.3,7.6,41.1,25.1,65.7,587.7,Peaty,Maharashtra,Summer,Cereal,Barley,6.558,385.3,Tube well,1.881,Medium,19.877,3.031
+200.4,29.5,146.0,29.2,27.9,193.1,Sandy,Haryana,Kharif,Cereal,Rice,1.617,357.6,Tube well,5.781,High,8.379,5.182
+197.6,2.2,149.6,37.7,25.4,803.6,Loam,Punjab,Rabi,Vegetable,Tomato,3.214,80.2,Rainfed,2.405,Medium,44.71,13.911
+124.9,4.0,57.2,36.9,90.8,1011.9,Clay,Tamil Nadu,Summer,Cereal,Maize,9.745,208.8,Tube well,4.623,High,43.755,4.49
+118.6,130.5,57.0,29.5,93.4,1004.5,Sandy,Tamil Nadu,Summer,Oilseed,Groundnut,8.834,330.0,Rainfed,4.41,High,15.619,1.768
+232.4,58.7,42.2,27.9,92.8,560.5,Sandy,Gujarat,Kharif,Oilseed,Sesame,6.729,362.2,Rainfed,2.329,Low,4.01,0.596
+249.5,27.6,259.7,13.8,75.7,873.0,Silt,Punjab,Summer,Pulse,Chana,2.576,240.7,Rainfed,4.027,High,2.715,1.054
+244.2,83.5,220.9,9.6,58.1,947.8,Loam,Uttar Pradesh,Kharif,Vegetable,Onion,6.823,126.1,Tube well,0.343,Medium,143.747,21.068
+221.0,86.4,59.8,34.2,30.7,263.3,Silt,Odisha,Rabi,Vegetable,Tomato,3.738,288.1,Rainfed,4.05,Medium,74.289,19.874
+159.2,60.5,251.2,17.5,22.4,1188.0,Loam,Karnataka,Kharif,Vegetable,Onion,1.9,97.3,Canal,5.169,High,37.265,19.613
+62.8,59.9,94.2,26.8,81.3,247.5,Clay,Gujarat,Summer,Pulse,Moong,2.49,150.0,Drip,0.736,Medium,1.551,0.623
+118.6,38.0,103.5,35.0,38.6,155.8,Chalky,Haryana,Kharif,Pulse,Urad,2.557,261.4,Canal,2.668,High,1.406,0.55
+125.8,57.8,18.7,36.3,43.8,960.5,Peaty,Bihar,Kharif,Pulse,Masoor,2.636,77.8,Rainfed,0.213,Medium,1.031,0.391
+62.6,115.8,217.7,28.9,72.0,1073.3,Loam,Haryana,Kharif,Cereal,Wheat,2.188,275.0,Tube well,5.195,Medium,9.443,4.316
+218.6,41.6,67.7,12.3,37.6,541.0,Silt,Haryana,Kharif,Pulse,Urad,9.227,260.1,Tube well,2.96,Medium,5.066,0.549
+102.9,13.2,135.6,27.1,93.6,692.6,Sandy,Uttar Pradesh,Summer,Pulse,Chana,5.05,297.2,Drip,2.093,Low,4.272,0.846
+154.9,9.7,44.3,21.1,22.9,83.7,Chalky,Haryana,Rabi,Cereal,Barley,2.883,285.1,Rainfed,3.609,Low,4.679,1.623
+191.0,54.7,233.3,9.8,21.3,523.3,Sandy,Uttar Pradesh,Summer,Oilseed,Groundnut,7.322,212.1,Canal,5.912,Low,8.794,1.201
+180.3,120.5,146.7,39.6,83.3,813.3,Sandy,Gujarat,Rabi,Vegetable,Tomato,9.986,206.1,Canal,1.401,Low,165.828,16.606
+148.5,53.4,281.8,17.9,87.0,1066.6,Loam,Gujarat,Summer,Cereal,Wheat,0.163,361.9,Tube well,4.669,Medium,0.665,4.081
+107.0,18.9,67.4,24.9,94.1,399.3,Peaty,Uttar Pradesh,Kharif,Pulse,Moong,6.796,286.5,Rainfed,0.823,Medium,3.704,0.545
+101.8,92.4,14.3,34.1,20.4,646.4,Loam,Uttar Pradesh,Rabi,Vegetable,Brinjal,6.319,337.5,Rainfed,5.109,Medium,61.016,9.656
+78.8,85.2,101.4,24.2,41.9,81.6,Chalky,Uttar Pradesh,Kharif,Vegetable,Brinjal,6.095,33.3,Canal,5.304,Medium,46.444,7.62
+85.7,88.7,159.3,15.7,61.0,193.7,Chalky,Karnataka,Kharif,Oilseed,Soybean,2.976,59.0,Drip,4.682,Medium,5.244,1.762
+231.9,75.1,174.5,13.7,81.6,162.5,Silt,Uttar Pradesh,Summer,Cash,Sugarcane,2.29,356.5,Drip,0.113,Medium,159.022,69.442
+65.3,143.7,247.9,37.5,93.5,779.1,Sandy,Haryana,Kharif,Cash,Sugarcane,4.821,125.6,Canal,0.924,High,251.299,52.126
+227.4,128.4,169.3,21.6,91.8,726.9,Silt,Karnataka,Kharif,Oilseed,Sesame,8.461,160.5,Canal,4.275,High,9.561,1.13
+178.2,51.1,47.2,17.0,77.9,417.7,Clay,Punjab,Rabi,Oilseed,Groundnut,5.917,318.8,Rainfed,3.21,High,11.982,2.025
+76.8,78.4,180.6,24.3,74.7,658.6,Sandy,Uttar Pradesh,Kharif,Vegetable,Brinjal,0.749,220.4,Rainfed,0.996,Low,6.972,9.308
+236.9,78.6,53.1,15.2,95.0,895.4,Silt,Rajasthan,Kharif,Pulse,Urad,6.982,324.7,Canal,3.269,Low,3.847,0.551
+246.7,110.6,246.6,17.3,92.9,765.1,Peaty,Karnataka,Summer,Cereal,Maize,7.416,184.6,Canal,0.653,Medium,46.202,6.23
+155.3,53.0,28.3,32.2,43.9,8.1,Chalky,Gujarat,Summer,Fiber,Cotton,4.981,160.4,Drip,5.239,Medium,7.173,1.44
+59.0,109.6,46.4,33.2,47.4,199.2,Loam,Haryana,Rabi,Oilseed,Groundnut,8.983,334.7,Canal,4.325,Low,16.583,1.846
+100.2,56.7,123.6,18.1,89.0,772.3,Chalky,Tamil Nadu,Summer,Cereal,Wheat,2.037,312.0,Canal,1.794,Medium,6.698,3.288
+239.1,135.9,63.1,9.9,27.2,1121.7,Sandy,Tamil Nadu,Rabi,Pulse,Moong,7.546,145.2,Tube well,5.599,Medium,3.139,0.416
+107.3,39.6,165.8,20.1,32.3,1078.7,Peaty,Haryana,Summer,Pulse,Moong,3.886,366.7,Tube well,4.909,Low,2.464,0.634
+79.4,46.2,220.8,29.7,82.1,251.9,Silt,Uttar Pradesh,Rabi,Cereal,Barley,6.099,216.7,Drip,2.557,Medium,19.901,3.263
+187.4,59.4,212.5,37.1,86.0,262.7,Clay,Punjab,Kharif,Vegetable,Brinjal,3.018,233.7,Rainfed,5.751,Medium,28.617,9.482
+135.0,51.2,45.7,31.6,71.2,220.9,Chalky,Odisha,Summer,Oilseed,Sesame,5.616,191.0,Tube well,4.447,High,5.127,0.913
+150.9,143.5,255.8,13.5,75.3,620.2,Loam,Odisha,Summer,Cereal,Wheat,2.282,371.1,Rainfed,0.701,Medium,8.421,3.69
+158.6,87.6,75.7,23.9,33.4,903.9,Loam,Maharashtra,Kharif,Vegetable,Potato,2.038,230.0,Rainfed,5.648,Low,56.316,27.633
+229.6,40.8,40.9,18.1,22.1,980.6,Loam,Maharashtra,Kharif,Vegetable,Onion,3.967,171.7,Rainfed,3.988,High,76.841,19.37
+127.7,55.3,126.5,30.7,68.7,1194.5,Peaty,Maharashtra,Summer,Oilseed,Groundnut,4.82,295.4,Canal,0.144,Medium,10.329,2.143
+106.1,67.8,11.5,39.1,50.6,654.3,Sandy,Uttar Pradesh,Kharif,Vegetable,Potato,7.781,40.6,Tube well,1.63,Medium,115.595,14.856
+238.2,101.6,49.4,12.6,34.1,11.5,Loam,Haryana,Rabi,Cereal,Barley,9.446,233.0,Canal,2.832,High,27.63,2.925
+11.8,62.7,176.1,17.7,50.7,176.7,Sandy,Punjab,Summer,Vegetable,Onion,0.388,335.5,Canal,1.796,Medium,5.746,14.809
+205.8,109.5,3.0,26.3,43.8,771.1,Peaty,Tamil Nadu,Kharif,Pulse,Masoor,4.765,398.6,Drip,5.689,High,6.004,1.26
+109.3,126.0,134.2,14.2,93.9,865.7,Peaty,Tamil Nadu,Kharif,Cereal,Wheat,2.71,76.7,Canal,4.752,High,8.696,3.209
+212.3,36.3,233.9,20.7,70.5,822.4,Silt,Bihar,Kharif,Vegetable,Brinjal,4.532,38.1,Drip,0.861,High,52.929,11.679
+122.0,116.0,79.0,34.1,33.8,874.7,Sandy,Haryana,Rabi,Vegetable,Potato,3.677,58.2,Canal,4.817,High,72.286,19.659
+18.5,65.2,250.3,19.0,54.9,1091.2,Loam,Tamil Nadu,Rabi,Cereal,Wheat,3.275,80.5,Rainfed,4.45,Medium,6.835,2.087
+41.3,41.4,288.6,13.7,70.4,703.4,Chalky,Tamil Nadu,Summer,Pulse,Masoor,8.394,394.3,Rainfed,4.603,High,5.557,0.662
+76.5,91.6,186.1,18.7,81.3,784.0,Chalky,Odisha,Summer,Pulse,Chana,9.07,109.8,Rainfed,4.027,Medium,6.839,0.754
+28.5,144.9,265.1,31.9,74.6,1006.2,Loam,Karnataka,Kharif,Cereal,Wheat,9.091,267.7,Tube well,1.957,High,38.355,4.219
+217.1,124.2,249.0,17.3,39.6,529.9,Chalky,Uttar Pradesh,Rabi,Cereal,Maize,3.614,323.5,Rainfed,0.088,Medium,17.213,4.763
+58.0,22.6,194.7,27.7,75.6,491.8,Loam,Maharashtra,Summer,Cash,Sugarcane,2.2,83.9,Canal,0.714,Medium,136.675,62.125
+248.5,37.6,103.6,34.0,64.3,452.7,Peaty,Maharashtra,Rabi,Cereal,Wheat,8.188,128.5,Drip,4.936,High,34.062,4.16
+74.6,121.9,104.2,13.5,72.1,678.3,Loam,Karnataka,Kharif,Pulse,Moong,7.189,9.5,Tube well,1.451,Low,2.631,0.366
+111.8,114.6,252.1,34.8,30.8,55.3,Sandy,Maharashtra,Summer,Oilseed,Groundnut,8.249,5.9,Canal,0.465,High,8.488,1.029
+224.0,89.3,53.7,21.5,52.5,1119.6,Silt,Rajasthan,Kharif,Cereal,Wheat,9.599,338.4,Rainfed,4.27,Low,31.072,3.237
+155.1,54.4,257.2,30.9,55.5,345.0,Peaty,Tamil Nadu,Summer,Cash,Sugarcane,0.705,393.2,Tube well,4.101,Low,53.486,75.867
+222.2,107.9,83.7,36.5,38.1,418.4,Loam,Punjab,Summer,Vegetable,Tomato,4.072,244.7,Drip,4.069,High,118.381,29.072
+156.3,52.4,241.7,37.8,27.7,1177.6,Clay,Karnataka,Summer,Cereal,Rice,9.301,272.9,Rainfed,5.235,Medium,28.182,3.03
+74.0,120.0,211.4,19.6,20.3,1080.9,Loam,Rajasthan,Rabi,Cereal,Rice,8.591,126.7,Canal,4.137,Low,29.716,3.459
+100.0,121.4,118.5,39.6,43.1,1000.7,Clay,Maharashtra,Rabi,Cereal,Rice,1.386,353.3,Rainfed,4.215,Low,4.025,2.904
+108.0,88.4,20.8,25.6,68.9,1182.7,Chalky,Odisha,Summer,Pulse,Moong,5.768,286.8,Drip,2.417,Low,4.095,0.71
+50.8,69.3,113.6,32.7,26.2,625.0,Silt,Rajasthan,Rabi,Vegetable,Onion,9.928,344.1,Canal,5.361,Low,167.674,16.889
+87.1,65.3,43.5,21.2,47.5,443.9,Chalky,Odisha,Rabi,Vegetable,Tomato,6.254,143.9,Canal,4.918,Low,119.189,19.058
+241.8,29.0,112.8,18.5,58.6,134.5,Sandy,Punjab,Summer,Oilseed,Sesame,1.797,87.7,Canal,5.733,Medium,1.13,0.629
+25.1,34.5,55.4,29.6,35.8,878.5,Peaty,Rajasthan,Rabi,Vegetable,Onion,6.311,30.3,Drip,1.81,High,79.336,12.571
+216.0,72.0,296.1,13.4,94.5,471.5,Chalky,Maharashtra,Rabi,Cereal,Wheat,8.283,250.8,Rainfed,2.411,Medium,23.192,2.8
+189.4,22.5,247.9,37.0,84.4,685.5,Loam,Maharashtra,Rabi,Pulse,Chana,0.26,61.2,Drip,5.033,Medium,0.213,0.82
+230.1,139.7,255.8,36.6,59.5,205.3,Peaty,Karnataka,Kharif,Vegetable,Tomato,5.915,340.9,Drip,2.191,Medium,180.254,30.474
+200.8,29.4,198.0,38.8,84.8,288.7,Silt,Bihar,Rabi,Cereal,Barley,1.455,37.8,Tube well,2.118,Medium,2.498,1.717
+225.4,148.7,93.8,20.1,72.9,608.9,Silt,Punjab,Summer,Vegetable,Potato,2.83,94.6,Rainfed,4.496,High,94.052,33.234
+22.2,103.7,147.4,15.4,45.0,878.3,Chalky,Uttar Pradesh,Summer,Cereal,Wheat,8.35,145.5,Canal,2.156,Medium,21.151,2.533
+100.9,100.2,284.3,19.4,66.4,408.1,Peaty,Rajasthan,Summer,Vegetable,Tomato,6.396,243.6,Tube well,4.99,High,217.208,33.96
+232.2,11.3,207.9,25.5,34.8,1141.9,Loam,Uttar Pradesh,Summer,Pulse,Urad,7.027,47.8,Drip,0.352,Medium,2.853,0.406
+53.2,100.7,290.9,9.3,63.7,927.5,Loam,Bihar,Summer,Pulse,Masoor,1.075,370.8,Rainfed,3.4,Low,0.654,0.608
+51.0,67.4,160.7,24.3,27.4,252.8,Peaty,Bihar,Summer,Vegetable,Brinjal,2.83,44.1,Tube well,3.761,Medium,19.96,7.053
+240.7,132.3,6.0,8.8,51.2,812.6,Sandy,Gujarat,Summer,Vegetable,Onion,1.176,115.6,Tube well,3.704,Low,15.224,12.946
+83.9,36.1,122.1,33.6,65.7,688.4,Peaty,Bihar,Summer,Oilseed,Sesame,5.606,259.9,Tube well,0.27,Medium,4.726,0.843
+82.0,57.2,205.1,22.4,48.2,467.6,Chalky,Punjab,Summer,Cash,Sugarcane,1.656,199.5,Drip,1.323,Medium,128.338,77.499
+153.5,99.5,271.5,16.1,30.4,424.4,Peaty,Odisha,Rabi,Oilseed,Sesame,0.326,216.6,Canal,2.585,Medium,0.29,0.889
+158.1,148.8,259.2,9.6,28.7,885.1,Clay,Gujarat,Kharif,Cereal,Rice,5.406,18.4,Drip,1.266,Medium,11.034,2.041
+224.9,142.5,178.5,27.1,42.9,469.1,Sandy,Tamil Nadu,Rabi,Oilseed,Groundnut,6.908,173.0,Canal,1.664,High,17.684,2.56
+8.9,25.1,232.2,23.4,93.1,897.1,Loam,Gujarat,Rabi,Oilseed,Groundnut,3.407,94.9,Drip,5.025,Medium,5.073,1.489
+187.7,64.8,189.9,34.9,88.0,423.6,Silt,Odisha,Summer,Oilseed,Mustard,9.897,95.8,Drip,5.58,Low,8.907,0.9
+129.5,57.5,204.2,37.4,87.3,670.8,Sandy,Rajasthan,Summer,Cash,Sugarcane,3.771,220.6,Drip,5.494,High,256.635,68.055
+166.7,60.1,153.7,24.5,72.4,280.2,Peaty,Uttar Pradesh,Rabi,Vegetable,Potato,7.145,309.2,Rainfed,0.897,High,259.828,36.365
+127.3,99.0,85.3,17.4,90.6,181.8,Peaty,Rajasthan,Kharif,Fiber,Cotton,4.971,2.0,Canal,2.758,Medium,4.37,0.879
+193.9,55.1,255.9,13.9,36.6,625.2,Clay,Uttar Pradesh,Rabi,Oilseed,Sesame,7.678,150.0,Tube well,1.615,High,6.188,0.806
+191.6,93.0,155.2,9.8,80.6,194.8,Loam,Maharashtra,Summer,Vegetable,Tomato,9.084,287.4,Canal,0.57,Medium,199.521,21.964
+225.0,23.1,78.8,22.0,73.3,974.8,Sandy,Haryana,Rabi,Pulse,Urad,8.199,86.5,Tube well,4.627,Medium,4.091,0.499
+234.9,125.9,173.7,23.8,95.0,940.5,Chalky,Haryana,Kharif,Pulse,Moong,7.017,332.9,Rainfed,1.066,High,4.863,0.693
+55.4,18.2,233.8,14.8,61.9,928.7,Chalky,Rajasthan,Kharif,Vegetable,Tomato,7.01,47.7,Canal,0.799,High,103.033,14.698
+246.3,57.0,93.1,10.3,41.3,708.3,Silt,Haryana,Kharif,Oilseed,Groundnut,6.339,287.2,Rainfed,4.006,High,12.26,1.934
+147.6,129.5,177.4,31.7,20.1,24.4,Clay,Maharashtra,Kharif,Cash,Sugarcane,7.255,247.2,Drip,1.534,Medium,525.146,72.384
+175.8,68.2,209.5,25.5,88.5,459.1,Peaty,Rajasthan,Rabi,Oilseed,Groundnut,9.448,228.7,Rainfed,2.101,Medium,22.552,2.387
+166.9,116.4,175.7,36.2,89.2,866.4,Chalky,Bihar,Summer,Fiber,Cotton,3.854,138.7,Rainfed,2.016,High,4.937,1.281
+215.3,114.5,285.6,33.3,81.0,961.2,Peaty,Punjab,Rabi,Pulse,Urad,2.716,165.5,Rainfed,2.986,Medium,1.469,0.541
+167.4,135.5,177.2,10.9,55.9,195.0,Peaty,Uttar Pradesh,Rabi,Fiber,Cotton,0.93,295.0,Drip,4.471,High,2.054,2.209
+204.9,87.8,175.9,28.5,39.0,363.4,Sandy,Gujarat,Kharif,Cereal,Maize,8.533,329.7,Drip,3.228,Medium,54.637,6.403
+90.7,50.0,208.7,36.9,58.6,657.8,Chalky,Gujarat,Kharif,Vegetable,Brinjal,1.451,15.6,Drip,2.759,High,10.954,7.549
+217.7,138.5,50.1,29.2,25.8,1034.0,Chalky,Uttar Pradesh,Summer,Vegetable,Onion,2.114,205.3,Canal,1.952,Medium,42.208,19.966
+129.7,6.0,108.6,26.4,32.5,56.3,Clay,Maharashtra,Summer,Cash,Sugarcane,9.362,230.6,Tube well,4.949,High,604.926,64.615
+65.5,38.8,200.2,36.9,35.3,1148.3,Silt,Uttar Pradesh,Summer,Vegetable,Potato,8.969,187.5,Canal,1.394,Medium,183.515,20.461
+184.7,95.5,85.8,26.4,30.5,1072.5,Chalky,Punjab,Summer,Pulse,Chana,9.696,38.1,Drip,4.127,Low,6.264,0.646
+41.2,115.1,162.4,38.1,67.9,266.8,Clay,Rajasthan,Kharif,Oilseed,Groundnut,2.74,356.9,Rainfed,1.704,Low,3.567,1.302
+241.0,55.2,172.9,31.5,39.5,212.3,Clay,Maharashtra,Summer,Pulse,Masoor,5.394,251.2,Tube well,1.205,High,5.178,0.96
+220.5,7.2,199.0,13.7,47.0,639.8,Chalky,Maharashtra,Summer,Vegetable,Tomato,3.317,1.3,Tube well,4.576,High,42.653,12.859
+48.6,7.7,143.2,10.4,57.0,999.0,Sandy,Maharashtra,Kharif,Oilseed,Sesame,7.978,313.3,Drip,3.902,Low,3.311,0.415
+96.9,108.9,86.0,35.3,54.3,727.4,Sandy,Rajasthan,Rabi,Oilseed,Groundnut,2.968,1.2,Rainfed,5.785,Medium,2.745,0.925
+96.1,65.6,289.9,28.0,53.8,413.4,Loam,Karnataka,Kharif,Fiber,Cotton,9.813,35.3,Tube well,2.328,High,18.674,1.903
+28.5,60.3,199.8,31.7,91.4,305.4,Chalky,Maharashtra,Rabi,Pulse,Masoor,1.884,222.5,Rainfed,0.177,Medium,0.965,0.512
+172.9,105.2,53.7,9.4,59.3,856.0,Sandy,Punjab,Rabi,Vegetable,Onion,9.825,136.9,Drip,5.959,Medium,182.637,18.589
+189.1,31.1,115.0,10.0,75.3,447.8,Silt,Maharashtra,Kharif,Vegetable,Onion,4.305,84.3,Tube well,1.333,Low,68.122,15.824
+77.4,73.5,140.5,36.5,89.4,1111.5,Loam,Rajasthan,Kharif,Vegetable,Potato,2.125,300.8,Drip,3.337,Medium,62.813,29.559
+129.0,47.1,197.3,14.7,45.6,822.3,Sandy,Punjab,Kharif,Vegetable,Tomato,4.826,153.4,Canal,3.113,Medium,85.676,17.753
+170.9,63.8,222.4,33.2,49.7,682.1,Loam,Uttar Pradesh,Kharif,Oilseed,Sesame,9.002,331.1,Tube well,2.119,High,10.847,1.205
+182.5,69.7,293.3,9.9,94.1,10.3,Peaty,Rajasthan,Summer,Fiber,Cotton,5.843,335.1,Rainfed,0.601,High,7.549,1.292
+238.4,32.8,76.2,29.8,67.5,1184.0,Sandy,Rajasthan,Rabi,Oilseed,Soybean,4.26,143.6,Tube well,3.448,Medium,9.99,2.345
+173.5,20.1,194.6,36.1,57.8,297.1,Chalky,Rajasthan,Kharif,Cash,Sugarcane,2.313,331.9,Drip,2.496,High,177.197,76.609
+163.1,9.4,65.9,27.5,72.9,624.7,Chalky,Haryana,Rabi,Fiber,Cotton,4.422,81.8,Tube well,0.841,High,6.779,1.533
+139.1,145.5,82.2,39.2,88.8,349.8,Sandy,Bihar,Summer,Oilseed,Soybean,3.533,372.8,Drip,0.491,High,8.363,2.367
+64.1,131.6,17.8,20.0,61.3,30.5,Sandy,Gujarat,Summer,Vegetable,Brinjal,4.207,202.5,Rainfed,1.941,Low,30.892,7.343
+161.9,44.3,262.7,8.9,73.9,245.5,Peaty,Rajasthan,Kharif,Vegetable,Tomato,2.62,26.0,Drip,2.027,High,43.188,16.484
+171.1,5.1,287.2,31.5,89.9,1096.3,Loam,Tamil Nadu,Rabi,Vegetable,Potato,6.704,201.0,Drip,2.922,Medium,193.565,28.873
+154.5,66.9,218.1,24.4,92.7,415.4,Loam,Punjab,Kharif,Vegetable,Brinjal,8.128,199.6,Canal,3.59,Medium,126.764,15.596
+246.7,149.9,141.3,29.7,32.8,166.3,Clay,Maharashtra,Kharif,Vegetable,Onion,0.433,65.4,Tube well,2.64,High,8.506,19.644
+38.3,73.9,206.8,38.2,45.3,92.4,Clay,Bihar,Rabi,Oilseed,Groundnut,5.668,358.3,Canal,2.7,Medium,8.207,1.448
+198.1,149.0,270.8,16.1,94.7,546.8,Peaty,Bihar,Rabi,Cereal,Rice,4.764,228.1,Canal,3.477,Low,21.819,4.58
+133.4,98.4,267.7,14.6,83.1,208.6,Peaty,Maharashtra,Kharif,Pulse,Chana,1.495,209.9,Tube well,3.613,High,1.769,1.183
+216.5,55.6,47.3,21.1,88.7,572.9,Sandy,Odisha,Rabi,Pulse,Moong,2.367,374.7,Drip,4.855,Medium,1.863,0.787
+68.8,15.9,224.2,26.7,80.4,383.0,Silt,Uttar Pradesh,Kharif,Pulse,Masoor,3.344,72.3,Drip,2.186,High,2.896,0.866
+129.7,107.3,33.4,35.6,76.2,97.7,Peaty,Karnataka,Rabi,Cereal,Maize,5.359,137.6,Drip,1.284,Medium,28.703,5.356
+208.5,109.2,266.1,26.7,36.9,390.1,Silt,Odisha,Rabi,Vegetable,Potato,1.722,370.0,Drip,4.002,Medium,73.474,42.668
+4.8,15.7,224.4,34.1,67.1,673.3,Sandy,Maharashtra,Rabi,Fiber,Cotton,8.924,33.1,Rainfed,4.802,Medium,5.506,0.617
+235.1,116.9,153.6,27.1,78.2,945.5,Clay,Rajasthan,Rabi,Pulse,Chana,4.265,342.6,Canal,1.616,High,6.645,1.558
+15.2,1.1,178.3,32.8,84.0,4.3,Silt,Gujarat,Kharif,Oilseed,Soybean,8.243,105.6,Rainfed,5.275,Low,8.721,1.058
+63.4,11.1,199.2,33.9,33.0,492.1,Clay,Maharashtra,Rabi,Pulse,Masoor,4.676,157.9,Rainfed,3.246,Medium,2.179,0.466
+194.2,126.1,20.6,39.9,75.0,195.2,Loam,Odisha,Kharif,Oilseed,Soybean,9.602,225.1,Tube well,2.179,Medium,25.311,2.636
+0.4,81.7,199.2,29.8,27.1,677.2,Loam,Uttar Pradesh,Kharif,Vegetable,Tomato,8.369,79.8,Rainfed,5.44,High,134.917,16.121
+129.4,89.6,11.5,10.7,86.9,112.6,Chalky,Gujarat,Kharif,Cereal,Wheat,9.059,144.5,Canal,3.405,Medium,22.167,2.447
+62.9,126.4,118.3,34.5,40.9,455.3,Silt,Punjab,Kharif,Vegetable,Onion,2.698,235.6,Canal,2.296,Low,49.565,18.371
+170.8,20.7,68.1,28.5,46.5,775.7,Chalky,Gujarat,Kharif,Oilseed,Mustard,8.169,360.1,Drip,3.335,Medium,10.881,1.332
+59.2,96.9,37.7,15.4,23.5,579.1,Sandy,Uttar Pradesh,Kharif,Cash,Sugarcane,6.809,104.5,Tube well,3.032,Medium,300.291,44.102
+26.9,102.5,16.5,24.4,67.4,235.3,Chalky,Maharashtra,Rabi,Pulse,Masoor,5.243,186.2,Drip,4.491,Medium,3.854,0.735
+23.8,26.6,9.1,34.9,20.5,514.8,Sandy,Tamil Nadu,Rabi,Vegetable,Brinjal,5.324,86.2,Drip,1.695,Medium,23.399,4.395
+213.1,90.7,54.9,14.1,36.3,72.6,Clay,Odisha,Rabi,Vegetable,Brinjal,4.831,196.9,Canal,2.903,Low,35.199,7.286
+164.8,132.5,107.0,28.6,20.7,827.6,Chalky,Haryana,Summer,Pulse,Chana,3.808,148.6,Canal,3.182,Medium,4.063,1.067
+89.6,80.5,73.9,38.9,75.1,943.3,Clay,Bihar,Kharif,Pulse,Urad,8.578,371.8,Rainfed,0.094,High,3.731,0.435
+56.2,72.5,89.0,26.2,86.9,6.3,Chalky,Odisha,Kharif,Oilseed,Soybean,1.632,241.7,Canal,4.315,Low,3.042,1.864
+127.2,143.9,138.6,39.5,79.4,886.3,Silt,Haryana,Rabi,Cereal,Wheat,9.595,208.1,Canal,0.276,Low,25.916,2.701
+237.2,136.1,81.4,35.8,68.8,400.0,Peaty,Maharashtra,Kharif,Oilseed,Mustard,4.003,177.9,Rainfed,5.351,High,5.028,1.256
+206.7,63.3,183.7,20.5,91.7,175.2,Clay,Karnataka,Rabi,Vegetable,Onion,4.178,31.4,Rainfed,5.986,High,55.2,13.212
+131.3,25.0,62.0,12.2,80.3,474.1,Loam,Rajasthan,Summer,Cereal,Wheat,6.089,207.6,Tube well,0.042,Medium,16.416,2.696
+91.2,70.3,67.9,32.6,89.1,500.4,Silt,Maharashtra,Kharif,Pulse,Moong,1.956,74.0,Rainfed,2.092,Medium,0.937,0.479
+232.3,48.6,76.2,32.3,27.2,526.6,Clay,Karnataka,Summer,Cereal,Rice,0.917,130.5,Canal,0.112,High,3.756,4.096
+83.6,49.5,281.0,34.0,40.0,529.7,Chalky,Uttar Pradesh,Kharif,Cereal,Maize,9.203,131.3,Rainfed,5.473,High,40.401,4.39
+32.0,102.6,200.6,9.2,43.1,714.1,Peaty,Haryana,Summer,Vegetable,Onion,7.972,392.8,Rainfed,2.268,Low,96.501,12.105
+178.2,67.4,96.8,39.1,90.5,77.2,Chalky,Haryana,Rabi,Vegetable,Tomato,1.495,155.9,Drip,4.092,Low,19.439,13.003
+160.1,138.7,219.8,16.1,64.8,325.5,Chalky,Punjab,Rabi,Oilseed,Sesame,6.941,383.4,Rainfed,4.838,High,6.205,0.894
+81.0,71.2,250.1,25.4,53.4,1117.6,Peaty,Uttar Pradesh,Rabi,Cereal,Barley,8.833,98.4,Canal,5.782,Low,20.687,2.342
+60.6,28.7,277.6,12.9,32.2,44.4,Silt,Gujarat,Summer,Pulse,Masoor,9.202,308.7,Canal,5.383,Low,4.997,0.543
+126.2,56.8,23.4,14.9,57.1,914.9,Peaty,Gujarat,Summer,Oilseed,Mustard,8.159,8.7,Canal,1.087,Medium,4.732,0.58
+128.1,50.7,251.9,12.7,93.3,355.2,Clay,Karnataka,Summer,Cereal,Barley,5.28,26.5,Tube well,0.47,High,8.332,1.578
+178.9,90.8,252.6,37.5,37.0,665.1,Loam,Punjab,Summer,Pulse,Urad,2.316,378.4,Rainfed,1.881,Medium,1.183,0.511
+92.5,32.3,245.8,20.7,45.8,10.4,Loam,Punjab,Rabi,Oilseed,Mustard,2.15,176.2,Canal,1.255,High,2.866,1.333
+74.8,54.7,151.7,21.2,45.6,294.3,Silt,Haryana,Kharif,Vegetable,Onion,5.226,157.3,Tube well,1.123,Low,98.63,18.873
+56.3,99.2,269.9,34.8,23.5,967.3,Clay,Haryana,Summer,Cash,Sugarcane,5.097,205.9,Tube well,3.037,Low,251.736,49.389
+150.9,51.4,197.0,13.8,34.9,1001.8,Loam,Punjab,Summer,Pulse,Urad,3.79,90.3,Rainfed,1.886,High,1.535,0.405
+75.1,137.2,117.7,37.8,72.0,566.5,Loam,Karnataka,Kharif,Cereal,Maize,0.448,304.1,Drip,1.659,High,3.474,7.755
+46.3,7.3,110.0,9.2,40.4,1084.1,Chalky,Bihar,Rabi,Oilseed,Mustard,6.623,122.3,Canal,5.802,Medium,3.616,0.546
+249.6,117.8,229.3,37.1,54.7,270.7,Peaty,Gujarat,Rabi,Oilseed,Sesame,3.88,354.7,Tube well,4.228,Medium,3.729,0.961
+35.4,23.5,255.2,23.1,84.3,83.6,Silt,Rajasthan,Rabi,Vegetable,Potato,4.664,228.9,Rainfed,0.722,Low,78.892,16.915
+243.3,107.0,67.3,16.2,79.9,1141.4,Loam,Karnataka,Rabi,Pulse,Moong,9.813,270.3,Tube well,2.137,High,8.606,0.877
+122.8,135.5,249.9,39.9,82.0,696.5,Sandy,Tamil Nadu,Summer,Cereal,Barley,5.906,212.9,Canal,4.799,Low,12.786,2.165
+65.5,0.9,199.1,19.7,78.3,621.1,Sandy,Punjab,Rabi,Pulse,Urad,8.581,87.0,Drip,4.037,Low,3.098,0.361
+124.9,40.6,206.6,29.1,52.1,380.7,Chalky,Tamil Nadu,Kharif,Pulse,Chana,4.588,171.2,Rainfed,0.348,Medium,3.611,0.787
+215.8,123.0,4.9,20.9,66.0,342.2,Loam,Bihar,Kharif,Oilseed,Mustard,9.414,262.5,Canal,5.347,High,17.049,1.811
+230.7,135.3,213.1,34.7,34.7,171.2,Silt,Tamil Nadu,Summer,Pulse,Moong,0.904,106.0,Rainfed,1.891,Medium,0.432,0.478
+138.1,49.7,40.4,35.0,83.6,744.6,Sandy,Maharashtra,Rabi,Cash,Sugarcane,5.003,364.0,Tube well,3.819,Medium,291.205,58.206
+218.2,69.7,126.4,16.3,25.6,55.8,Clay,Odisha,Kharif,Pulse,Urad,0.969,86.8,Drip,3.484,Low,0.357,0.368
+159.6,147.8,256.7,19.1,91.1,837.9,Silt,Bihar,Summer,Pulse,Masoor,8.507,136.4,Drip,1.215,High,8.533,1.003
+78.2,107.7,144.5,28.8,82.2,958.9,Chalky,Haryana,Summer,Vegetable,Tomato,7.101,7.0,Tube well,1.527,Medium,101.58,14.305
+229.6,61.1,247.0,34.7,35.3,472.4,Chalky,Rajasthan,Summer,Vegetable,Tomato,0.679,300.3,Drip,2.49,High,18.617,27.418
+142.4,35.9,273.0,33.2,77.1,1011.1,Loam,Odisha,Kharif,Pulse,Moong,8.485,275.4,Canal,5.388,Medium,6.864,0.809
+1.4,10.7,296.6,23.5,44.5,667.2,Peaty,Punjab,Summer,Pulse,Masoor,4.146,155.9,Rainfed,0.579,High,1.969,0.475
+59.0,145.0,280.7,39.5,72.8,692.7,Peaty,Tamil Nadu,Rabi,Vegetable,Onion,0.838,154.2,Tube well,1.277,Low,13.534,16.15
+39.1,37.0,268.9,12.4,32.2,69.5,Clay,Haryana,Rabi,Cereal,Maize,2.886,33.8,Canal,3.474,High,8.234,2.853
+107.3,81.9,137.5,30.0,84.4,780.6,Sandy,Karnataka,Kharif,Pulse,Chana,8.908,114.2,Rainfed,4.869,Medium,5.594,0.628
+146.7,79.9,244.5,22.2,69.9,327.9,Sandy,Punjab,Rabi,Oilseed,Sesame,8.885,322.7,Canal,5.935,Medium,8.707,0.98
+21.4,63.7,175.4,8.3,40.7,522.1,Silt,Punjab,Summer,Oilseed,Groundnut,0.52,63.0,Drip,2.042,Medium,0.623,1.199
+230.4,118.9,154.8,22.9,86.6,199.0,Sandy,Punjab,Summer,Pulse,Masoor,3.769,81.2,Drip,2.128,Medium,2.714,0.72
+240.2,135.5,78.8,38.8,63.5,182.8,Chalky,Tamil Nadu,Rabi,Oilseed,Mustard,6.433,11.8,Canal,1.821,Low,3.757,0.584
+39.8,46.0,8.0,30.9,76.5,391.8,Silt,Punjab,Kharif,Cereal,Wheat,8.785,255.4,Rainfed,3.247,Medium,19.968,2.273
+60.2,142.7,293.0,10.6,94.1,691.3,Loam,Karnataka,Rabi,Pulse,Masoor,8.173,59.6,Drip,3.099,Low,3.997,0.489
+114.5,143.8,116.0,23.5,53.6,780.1,Loam,Bihar,Summer,Oilseed,Groundnut,5.056,134.5,Tube well,1.888,High,14.627,2.893
+105.7,32.6,186.5,29.4,38.4,689.8,Chalky,Tamil Nadu,Summer,Fiber,Cotton,1.736,210.5,Rainfed,4.281,Medium,2.403,1.384
+196.6,49.5,153.3,34.4,82.5,112.6,Silt,Tamil Nadu,Kharif,Oilseed,Groundnut,1.302,127.7,Rainfed,5.307,Medium,2.026,1.556
+240.2,117.2,223.6,8.1,33.4,707.3,Sandy,Karnataka,Summer,Pulse,Moong,2.125,167.2,Rainfed,3.462,Medium,1.039,0.489
+186.2,119.4,71.4,21.9,37.9,1148.0,Sandy,Rajasthan,Kharif,Cereal,Rice,3.696,276.3,Tube well,1.829,Medium,16.876,4.566
+43.7,140.6,69.3,16.5,52.8,1072.2,Clay,Maharashtra,Summer,Cereal,Wheat,2.24,63.9,Drip,2.245,High,6.041,2.697
+200.6,124.4,143.1,30.1,86.1,562.1,Peaty,Rajasthan,Rabi,Vegetable,Onion,6.236,224.2,Canal,2.919,High,199.059,31.921
+212.0,58.0,6.8,11.5,45.5,948.9,Peaty,Uttar Pradesh,Rabi,Oilseed,Sesame,8.713,48.5,Canal,5.345,High,5.463,0.627
+180.3,85.9,208.8,29.8,84.6,552.9,Silt,Punjab,Rabi,Cash,Sugarcane,5.022,67.2,Canal,5.064,High,419.362,83.505
+208.3,40.2,247.0,13.4,70.8,230.4,Clay,Tamil Nadu,Summer,Vegetable,Potato,4.288,170.7,Drip,4.242,Medium,127.585,29.754
+107.9,70.9,229.8,23.4,49.2,944.0,Chalky,Haryana,Summer,Oilseed,Soybean,0.448,17.6,Drip,0.52,High,0.934,2.084
+40.5,111.6,286.5,11.0,42.1,346.5,Silt,Punjab,Summer,Oilseed,Soybean,8.447,169.6,Rainfed,2.749,Medium,14.208,1.682
+231.6,45.4,121.4,34.8,43.5,159.3,Peaty,Tamil Nadu,Kharif,Cereal,Rice,9.652,74.2,Rainfed,4.969,High,32.411,3.358
+127.6,147.1,45.2,32.0,35.5,348.7,Peaty,Maharashtra,Summer,Vegetable,Onion,8.34,211.1,Rainfed,4.574,High,162.23,19.452
+85.2,51.8,275.3,17.6,50.0,424.6,Peaty,Tamil Nadu,Rabi,Fiber,Cotton,9.623,383.7,Tube well,4.75,Medium,20.978,2.18
+47.1,52.3,109.9,14.0,75.7,284.3,Silt,Karnataka,Summer,Vegetable,Tomato,8.788,129.2,Tube well,1.676,Low,134.043,15.253
+84.5,145.2,259.9,32.8,44.6,1085.5,Silt,Gujarat,Kharif,Cash,Sugarcane,2.192,176.9,Tube well,2.617,Medium,156.71,71.492
+236.2,107.3,169.8,15.1,33.8,380.6,Sandy,Bihar,Rabi,Vegetable,Brinjal,6.631,248.3,Rainfed,5.395,High,71.515,10.785
+100.0,28.1,205.5,18.7,46.1,940.5,Silt,Haryana,Summer,Cereal,Barley,5.354,245.2,Tube well,2.783,High,19.451,3.633
+167.1,113.3,231.3,14.6,49.7,1192.9,Silt,Haryana,Summer,Cash,Sugarcane,1.984,194.2,Drip,5.983,Low,131.335,66.197
+113.1,52.5,140.6,17.2,90.5,513.5,Peaty,Gujarat,Rabi,Vegetable,Tomato,8.419,80.3,Rainfed,2.294,Medium,142.913,16.975
+224.4,118.9,124.3,23.0,66.5,539.3,Chalky,Haryana,Rabi,Pulse,Chana,8.712,226.6,Drip,4.22,Low,11.186,1.284
+214.1,22.8,211.8,34.1,84.0,230.1,Sandy,Karnataka,Summer,Oilseed,Soybean,2.195,208.2,Tube well,4.458,High,4.978,2.268
+75.4,64.2,56.9,32.3,47.7,910.4,Clay,Odisha,Summer,Cereal,Wheat,5.47,143.8,Tube well,0.698,High,16.962,3.101
+120.5,78.2,225.5,13.1,94.2,452.1,Chalky,Bihar,Kharif,Vegetable,Tomato,0.527,72.8,Canal,1.444,High,9.948,18.877
+128.9,141.9,192.5,23.9,36.3,869.7,Sandy,Karnataka,Kharif,Pulse,Urad,2.22,94.7,Tube well,4.53,Low,0.983,0.443
+243.3,35.9,170.2,8.1,47.6,76.3,Clay,Haryana,Kharif,Pulse,Chana,4.881,67.1,Tube well,4.99,High,4.022,0.824
+241.0,145.3,257.8,10.1,41.1,763.2,Silt,Punjab,Rabi,Oilseed,Groundnut,9.54,290.9,Canal,2.945,Low,18.66,1.956
+64.2,48.8,249.1,28.0,81.5,252.4,Peaty,Odisha,Kharif,Cash,Sugarcane,4.224,356.1,Rainfed,2.573,Medium,294.683,69.764
